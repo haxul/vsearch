@@ -38,8 +38,7 @@ pub async fn fetch_vacancies(qr: &str) -> (Vec<Vacancy>, i64) {
         }
         return (vacancies, found);
     };
-    let found = vacancies.len() as i64;
-    (vacancies, found)
+    (vacancies, 0)
 }
 
 async fn fetch_vacancies_by_page(qr: &str, page: i64) -> Result<(Vec<Vacancy>, i64, i64, i64), reqwest::Error> {
