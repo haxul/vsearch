@@ -1,8 +1,15 @@
+use crate::integration::Vacancy;
+use tokio::task::block_in_place;
+
 mod integration;
 
 
 #[tokio::main]
 async fn main() {
+    let (vacancies, found) = integration::fetch_vacancies("java").await;
+    for (i, a) in vacancies.iter().enumerate() {
+        println!("{}. {}", i, a.name);
+    }
 
-    let _result = integration::fetch_vacancies(String::from("java")).await;
+    println!("found {}", found);
 }

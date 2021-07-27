@@ -1,6 +1,7 @@
 use serde_json;
 use std::time::Instant;
 use serde_json::{Value, Map};
+use std::future::Future;
 
 pub struct Vacancy {
     pub(crate) id: String,
@@ -17,9 +18,33 @@ pub struct Salary {
     pub(crate) is_gross: bool,
 }
 
-pub async fn fetch_vacancies(qr: String) -> Result<Vec<Vacancy>, reqwest::Error> {
+pub async fn fetch_vacancies(qr: &str) -> (Vec<Vacancy>, i64) {
+    let response = fetch_vacancies_by_page(qr, 0).await;
+    let mut vacancies: Vec<Vacancy> = Vec::new();
+    if let Ok((mut vc, pages, mut page, found)) = response {
+        vacancies.append(&mut vc);
+        let mut futures = Vec::new();
+        while page < pages - 1 {
+            page = page + 1;
+            let future = fetch_vacancies_by_page(qr, page);
+            futures.push(future);
+        }
+
+        for future in futures {
+            let result = future.await;
+            if let Ok((mut vc, ..)) = result {
+                vacancies.append(&mut vc);
+            }
+        }
+        return (vacancies, found);
+    };
+    let found = vacancies.len() as i64;
+    (vacancies, found)
+}
+
+async fn fetch_vacancies_by_page(qr: &str, page: i64) -> Result<(Vec<Vacancy>, i64, i64, i64), reqwest::Error> {
     let client = reqwest::Client::new();
-    let url = &format!("https://api.hh.ru/vacancies?text={}", qr);
+    let url = &format!("https://api.hh.ru/vacancies?text={}&area=1&per_page=100&page={}", qr, page);
     let res = client.get(url)
         .header("User-Agent", "vsearch")
         .send()
@@ -32,8 +57,22 @@ pub async fn fetch_vacancies(qr: String) -> Result<Vec<Vacancy>, reqwest::Error>
         Err(e) => return Err(e)
     };
 
+    let pages = match &json["pages"].as_i64() {
+        None => 0,
+        Some(a) => *a
+    };
+    let page = match &json["page"].as_i64() {
+        None => 0,
+        Some(a) => *a
+    };
+
+    let found = match &json["found"].as_i64() {
+        None => 0,
+        Some(a) => *a
+    };
+
     let vacancies = extract_vacancies(json);
-    Ok(vacancies)
+    Ok((vacancies, pages, page, found))
 }
 
 fn extract_vacancies(json: serde_json::Value) -> Vec<Vacancy> {
