@@ -1,15 +1,14 @@
 extern crate reqwest;
 
+use serde_json;
 use std::collections::HashMap;
-
 
 #[tokio::main]
 async fn main() {
     let result = request(String::from("java")).await;
-
 }
 
-async fn request(qr: String) -> Result<String, reqwest::Error> {
+async fn request(qr: String) -> Result<serde_json::Value, reqwest::Error> {
     let client = reqwest::Client::new();
     let url = &format!("https://api.hh.ru/vacancies?{}", qr);
     let res = client.get(url)
@@ -17,8 +16,12 @@ async fn request(qr: String) -> Result<String, reqwest::Error> {
         .send()
         .await?;
 
-    let body: String = res.text().await?;
-    println!("Body:\n{}", body);
+    let body = res.text().await;
+    let json: serde_json::Value = match body {
+        Ok(b) => serde_json::from_str(&b).unwrap(),
+        Err(e) => return Err(e)
+    };
 
-    Ok(body)
+    println!("Body:\n{}", json);
+    Ok(json)
 }
