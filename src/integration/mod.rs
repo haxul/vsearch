@@ -3,19 +3,18 @@ use std::time::Instant;
 use serde_json::{Value, Map};
 
 pub struct Vacancy {
-    id: String,
-    name: String,
-    area: String,
-    salary: Option<Salary>,
-    schedule: String,
-    created: Instant,
+    pub(crate) id: String,
+    pub(crate) name: String,
+    pub(crate) area: Option<String>,
+    pub(crate) salary: Option<Salary>,
+    pub(crate) created: Instant,
 }
 
 pub struct Salary {
-    from: Option<i64>,
-    to: Option<i64>,
-    currency: String,
-    is_gross: bool,
+    pub(crate) from: Option<i64>,
+    pub(crate) to: Option<i64>,
+    pub(crate) currency: String,
+    pub(crate) is_gross: bool,
 }
 
 pub async fn fetch_vacancies(qr: String) -> Result<Vec<Vacancy>, reqwest::Error> {
@@ -42,10 +41,19 @@ fn extract_vacancies(json: serde_json::Value) -> Vec<Vacancy> {
     let mut vacancies: Vec<Vacancy> = Vec::new();
 
     for item in items.as_array().expect("must be array in remote service") {
-
         let item: &Map<String, Value> = item.as_object().unwrap();
 
         let name = item.get("name").unwrap();
+
+        let area = item.get("area").unwrap();
+
+        let area = match area.get("name") {
+            None => None,
+            Some(v) => match v.as_str() {
+                None => None,
+                Some(v) => Some(String::from(v))
+            }
+        };
 
         let name = match name.as_str() {
             None => String::from("UNKNOWN"),
@@ -60,9 +68,6 @@ fn extract_vacancies(json: serde_json::Value) -> Vec<Vacancy> {
         };
 
         let created = Instant::now();
-
-
-
 
         let salary = item.get("salary").unwrap();
 
@@ -92,7 +97,7 @@ fn extract_vacancies(json: serde_json::Value) -> Vec<Vacancy> {
             }
         };
 
-        let _salary: Option<Salary> = if !salary.is_null() {
+        let salary: Option<Salary> = if !salary.is_null() {
             Some(Salary {
                 from,
                 to,
@@ -104,6 +109,16 @@ fn extract_vacancies(json: serde_json::Value) -> Vec<Vacancy> {
         };
 
 
+        let vacancy = Vacancy {
+            id,
+            name,
+            area,
+            salary,
+            created,
+        };
+
+        vacancies.push(vacancy);
     }
-    vec![]
+
+    vacancies
 }
