@@ -1,11 +1,8 @@
-extern crate reqwest;
-
 use serde_json;
-use std::collections::HashMap;
 
 #[tokio::main]
 async fn main() {
-    let result = request(String::from("java")).await;
+    let _result = request(String::from("java")).await;
 }
 
 async fn request(qr: String) -> Result<serde_json::Value, reqwest::Error> {
@@ -18,7 +15,8 @@ async fn request(qr: String) -> Result<serde_json::Value, reqwest::Error> {
 
     let body = res.text().await;
     let json: serde_json::Value = match body {
-        Ok(b) => serde_json::from_str(&b).unwrap(),
+        Ok(body) => serde_json::from_str(&body)
+            .expect("some gets wrong during json parsing"),
         Err(e) => return Err(e)
     };
 
