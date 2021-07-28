@@ -1,22 +1,41 @@
-use crate::integration::Vacancy;
-use std::thread;
-use std::sync::mpsc;
-use std::time::Duration;
-use std::sync::mpsc::TryRecvError;
+use crate::integration::{Vacancy};
+use std::{env};
+use std::fs;
+use std::io::Write;
 
 mod integration;
 mod preloader;
+mod commands;
 
 #[tokio::main]
 async fn main() {
-    let (tx, rx) = mpsc::channel();
-    preloader::start(rx);
-    let (vacancies, found) = integration::fetch_vacancies("java").await;
-    tx.send(());
+    let args: Vec<String> = env::args().collect();
 
-    for (i, a) in vacancies.iter().enumerate() {
-        println!("{}. {}", i, a.name);
+    if args.len() <= 1 {
+        println!("unknown command");
     }
 
-    println!("found {}", found);
+    let _save_result = args.contains(&String::from("-s"));
+
+    if let Some(idx) = args.iter().position(|s| s.eq("w")) {
+        let (vacancies, found) = match args.get(idx + 1) {
+            Some(s) => commands::find_out_vacancies(s).await,
+            None => {
+                println!("enter vacancy text");
+                let empty: Vec<Vacancy> = Vec::new();
+                (empty, 0 as i64)
+            }
+        };
+
+        let mut file = fs::OpenOptions::new()
+            .write(true)
+            .append(true)
+            .open("/home/haxul/Development/workspaces/rust/vsearch/data.txt")
+            .unwrap();
+
+        let strings: Vec<String> = vacancies.iter().map(|v| format!("{}", v)).collect();
+        for s in strings {
+            let _result = writeln!(file, "{}", s);
+        }
+    }
 }

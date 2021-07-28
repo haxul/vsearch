@@ -1,4 +1,4 @@
-use std::{thread, io};
+use std::{thread};
 use std::time::Duration;
 use std::sync::mpsc::{TryRecvError, Receiver};
 
