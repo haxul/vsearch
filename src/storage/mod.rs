@@ -1,8 +1,10 @@
 use std::fmt::Display;
 use std::fs;
-use std::io::{Write};
+use std::io::{Write, BufReader, BufRead};
 use std::fs::File;
 use std::path::Path;
+use std::process::exit;
+use regex::Regex;
 
 pub mod storage;
 
@@ -21,22 +23,35 @@ impl FileStorage {
 }
 
 impl storage::Storage for FileStorage {
-    fn save(&self, data_list: Vec<impl Display>) -> bool {
+    fn save(&self, row: impl Display) {
         let mut file = fs::OpenOptions::new()
             .write(true)
             .append(true)
+            .read(true)
             .open(&self.file_path)
             .unwrap();
 
-        let strings: Vec<String> = data_list.iter().map(|v| format!("{}", v)).collect();
-        for s in strings {
-            let result = writeln!(file, "{}", s);
-            if let Err(e) = result {
-                println!("some gets wrong: {}", e);
-                return false;
-            };
+        let buffer = BufReader::new(&file);
+        let lines: Vec<String> = buffer
+            .lines()
+            .map(|line| { line.unwrap() })
+            .collect();
+
+
+        let re: Regex = regex::Regex::new(r"found:\s+\d+").unwrap();
+        let check: String = re.replace_all(&row.to_string(), "").to_string();
+        for line in lines {
+            let line = re.replace_all(&line, "").to_string();
+            if line.eq(&check) {
+                return;
+            }
+        }
+
+        let result = writeln!(file, "{}", row);
+        if let Err(e) = result {
+            println!("some gets wrong: {}", e);
+            exit(1);
         };
-        true
     }
 
     fn get_storage_name(&self) -> &str {

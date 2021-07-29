@@ -1,8 +1,8 @@
 use std::{env};
-use std::process::exit;
 use crate::storage::storage::Storage;
 use crate::storage::FileStorage;
 use crate::model::Vacancy;
+use chrono::Utc;
 
 mod integration;
 mod preloader;
@@ -12,6 +12,7 @@ mod model;
 
 #[tokio::main]
 async fn main() {
+
     let args: Vec<String> = env::args().collect();
 
     let storage = FileStorage::new(String::from("data.txt"));
@@ -23,7 +24,8 @@ async fn main() {
     let save_result = args.contains(&String::from("s"));
 
     if let Some(idx) = args.iter().position(|s| s.eq("w")) {
-        let (vacancies, found) = match args.get(idx + 1) {
+        let vacancy_to_find = args.get(idx + 1);
+        let (_vacancies, found) = match vacancy_to_find {
             Some(s) => commands::find_out_vacancies(s).await,
             None => {
                 println!("enter vacancy text");
@@ -37,11 +39,12 @@ async fn main() {
             return;
         }
 
-        let ok = storage.save(vacancies);
-        if !ok {
-            exit(1)
-        }
+        if let Some(v) = vacancy_to_find {
+            let cur_date = Utc::now().date();
+            let row = format!("date: {}, vacancy: {}, found: {}", cur_date, v, found);
+            storage.save(row);
 
-        println!("\nvacancies are saved in {}", storage.get_storage_name());
+            println!("\nvacancies are saved in {}", storage.get_storage_name());
+        }
     }
 }
