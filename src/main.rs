@@ -1,21 +1,26 @@
-use crate::integration::{Vacancy};
 use std::{env};
-use std::fs;
-use std::io::Write;
+use std::process::exit;
+use crate::storage::storage::Storage;
+use crate::storage::FileStorage;
+use crate::model::Vacancy;
 
 mod integration;
 mod preloader;
 mod commands;
+mod storage;
+mod model;
 
 #[tokio::main]
 async fn main() {
     let args: Vec<String> = env::args().collect();
 
+    let storage = FileStorage::new(String::from("data.txt"));
+
     if args.len() <= 1 {
         println!("unknown command");
     }
 
-    let _save_result = args.contains(&String::from("-s"));
+    let save_result = args.contains(&String::from("s"));
 
     if let Some(idx) = args.iter().position(|s| s.eq("w")) {
         let (vacancies, found) = match args.get(idx + 1) {
@@ -27,15 +32,16 @@ async fn main() {
             }
         };
 
-        let mut file = fs::OpenOptions::new()
-            .write(true)
-            .append(true)
-            .open("/home/haxul/Development/workspaces/rust/vsearch/data.txt")
-            .unwrap();
-
-        let strings: Vec<String> = vacancies.iter().map(|v| format!("{}", v)).collect();
-        for s in strings {
-            let _result = writeln!(file, "{}", s);
+        if !save_result {
+            println!("found {} vacancies", found);
+            return;
         }
+
+        let ok = storage.save(vacancies);
+        if !ok {
+            exit(1)
+        }
+
+        println!("\nvacancies are saved in {}", storage.get_storage_name());
     }
 }

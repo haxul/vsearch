@@ -1,6 +1,7 @@
-use crate::integration::{fetch_vacancies, Vacancy};
+use crate::integration::{fetch_vacancies};
 use std::sync::mpsc;
 use crate::preloader;
+use crate::model::Vacancy;
 
 // -w vacancy
 pub async fn find_out_vacancies(vacancy: &str) -> (Vec<Vacancy>, i64) {
