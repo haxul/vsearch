@@ -1,0 +1,1365 @@
+Vacancy(id: 46639589, name: Golang разработчик, area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46298616, name: Golang Developer, area: Москва, salary: from: 200000, to: 400000, currency: RUR, is_gross: false)
+Vacancy(id: 43784179, name: Senior Golang developer, area: Москва, salary: from: 350000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46528178, name: Golang разработчик, area: Москва, salary: from: 130000, to: 180000, currency: RUR, is_gross: false)
+Vacancy(id: 46385509, name: Golang Разработчик, area: Москва, salary: from: 150000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46490263, name: Программист Golang /Golang senior developer, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 38016148, name: Middle/Senior Golang developer, area: Москва, salary: from: 200000, to: 260000, currency: RUR, is_gross: false)
+Vacancy(id: 46607088, name: GoLang developer, area: Москва, salary: from: 180000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 46392952, name: Senior Golang Developer [remote], area: Москва, salary: from: 4000, to: 5000, currency: USD, is_gross: false)
+Vacancy(id: 46198448, name: Backend-разработчик (GoLang), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46588705, name: Golang developer, area: Москва, salary: from: 180000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46499097, name: Golang Developer backend, Middle/Senior (Remote), area: Москва, salary: from: 2500, to: 4500, currency: USD, is_gross: false)
+Vacancy(id: 45961337, name: Golang разработчик, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46592772, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46477231, name: Golang developer, area: Москва, salary: from: 120000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45970221, name: Golang разработчик, area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43814495, name: Sr Backend developer - Golang (US contract), area: Москва, salary: unknown
+Vacancy(id: 46001885, name: Go Developer, area: Москва, salary: from: 60000, to: 80000, currency: RUR, is_gross: false)
+Vacancy(id: 46339378, name: Senior Golang Developer, area: Москва, salary: from: 220000, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 46638883, name: Senior Golang / Go разработчик, area: Москва, salary: from: 200000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46008009, name: Go (Golang) Backend Developer, area: Москва, salary: from: -1, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 45859788, name: Golang Developer, area: Москва, salary: from: -1, to: 270000, currency: RUR, is_gross: false)
+Vacancy(id: 46602327, name: Middle бэкенд разработчик Golang, area: Москва, salary: from: 120000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46001583, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 44084230, name: Golang Developer, area: Москва, salary: from: 230000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45746278, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46573085, name: Junior Go (Golang) разработчик, area: Москва, salary: unknown
+Vacancy(id: 46020165, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46457933, name: Программист Golang/JS, area: Москва, salary: from: 70000, to: 150000, currency: RUR, is_gross: false)
+Vacancy(id: 46126396, name: Go разработчик / GoLang Developer, area: Москва, salary: from: 150000, to: 250000, currency: RUR, is_gross: true)
+Vacancy(id: 46517869, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 45992207, name: Backend-разработчик (Go, Golang), area: Москва, salary: from: 160000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 41680487, name: Golang Developer, area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46617300, name: Golang разработчик в отдел архитектуры (Remote), area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46453475, name: Go (golang) Back-end Developer, area: Москва, salary: unknown
+Vacancy(id: 43941903, name: Python разработчик (middle) (backend), area: Москва, salary: from: -1, to: 500000, currency: RUR, is_gross: false)
+Vacancy(id: 46630603, name: Go разработчик (Golang), area: Москва, salary: unknown
+Vacancy(id: 43857107, name: Middle Golang developer, area: Москва, salary: unknown
+Vacancy(id: 46571435, name: Golang developer, area: Москва, salary: unknown
+Vacancy(id: 45430655, name: GoLang Senior разработчик, area: Москва, salary: from: 210000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 43303765, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46339281, name: Senior PHP/Go Developer (remote), area: Москва, salary: from: 4000, to: 5000, currency: USD, is_gross: false)
+Vacancy(id: 46222999, name: Back-end Developer (Node/Java/Python), area: Москва, salary: unknown
+Vacancy(id: 46213583, name: Middle / Senior Go developer, area: Москва, salary: from: 200000, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 45430651, name: GoLang Middle разработчик, area: Москва, salary: from: 170000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46065716, name: Golang developer / Go backend разработчик, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 46413908, name: Go Разработчик, area: Москва, salary: from: 170000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 43880247, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46257304, name: Go (golang) Developer, area: Москва, salary: from: -1, to: 150000, currency: RUR, is_gross: false)
+Vacancy(id: 41630061, name: Golang разработчик (backend), area: Москва, salary: unknown
+Vacancy(id: 45889898, name: Golang - разработчик (middle/senior), area: Москва, salary: unknown
+Vacancy(id: 43687421, name: Ведущий разработчик GOlang, area: Москва, salary: from: 150000, to: 250000, currency: RUR, is_gross: true)
+Vacancy(id: 45413430, name: Go pазработчик / Go Developer, area: Москва, salary: from: 70000, to: 140000, currency: RUR, is_gross: false)
+Vacancy(id: 44954672, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46566404, name: Golang developer, area: Москва, salary: unknown
+Vacancy(id: 45798964, name: Senior Golang developer, area: Москва, salary: from: -1, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 44158646, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 43928691, name: Backend разработчик (PHP/Golang), area: Москва, salary: unknown
+Vacancy(id: 46391924, name: Backend Senior Developer, area: Москва, salary: from: 200000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 45618977, name: Golang Tech lead, area: Москва, salary: from: -1, to: 320000, currency: RUR, is_gross: false)
+Vacancy(id: 40256966, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 45959816, name: Разработчик Go (Golang), area: Москва, salary: unknown
+Vacancy(id: 46526613, name: Senior Golang / Go разработчик, area: Москва, salary: from: -1, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 46619104, name: Go разработчик / Golang backend developer, area: Москва, salary: unknown
+Vacancy(id: 46354450, name: Python backend developer, area: Москва, salary: from: 150000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46112316, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46607999, name: Golang Разработчик (Middle/Senior), area: Москва, salary: unknown
+Vacancy(id: 44787376, name: Go Developer, area: Москва, salary: unknown
+Vacancy(id: 46597706, name: Golang Team Lead, area: Москва, salary: unknown
+Vacancy(id: 46537925, name: Middle Go Developer, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46178058, name: Middle Backend Developer (Python), area: Москва, salary: unknown
+Vacancy(id: 46191919, name: Backend developer, area: Москва, salary: unknown
+Vacancy(id: 46513996, name: Python developer, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45986372, name: Backend Developer, area: Москва, salary: unknown
+Vacancy(id: 46494347, name: Разработчик (Golang) / Senior Backend Developer / Software Programmer, area: Москва, salary: unknown
+Vacancy(id: 44733701, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46266410, name: Python разработчик / Backend / Middle, area: Москва, salary: from: 120000, to: 160000, currency: RUR, is_gross: true)
+Vacancy(id: 44568376, name: Backend Developer (Golang), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46410241, name: Middle golang developer, area: Москва, salary: unknown
+Vacancy(id: 43856428, name: Middle/Senior Python Developer, area: Москва, salary: from: 130000, to: 220000, currency: RUR, is_gross: false)
+Vacancy(id: 46300392, name: Golang Developer, area: Москва, salary: from: 3500, to: -1, currency: USD, is_gross: false)
+Vacancy(id: 46178048, name: Senior Backend Developer (Python), area: Москва, salary: unknown
+Vacancy(id: 44196618, name: Golang Team Lead (Core), area: Москва, salary: from: -1, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 44685175, name: Python/Go разработчик, area: Москва, salary: unknown
+Vacancy(id: 45382222, name: Senior golang developer, area: Москва, salary: unknown
+Vacancy(id: 45717813, name: Разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 43289538, name: Golang Developer (PaaS), area: Москва, salary: unknown
+Vacancy(id: 43891780, name: Senior Backend Developer Go, area: Москва, salary: from: 4000, to: 5000, currency: USD, is_gross: false)
+Vacancy(id: 45893175, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 44553951, name: Junior-разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 45274564, name: Junior-Developer Golang, area: Москва, salary: unknown
+Vacancy(id: 45834562, name: Back-end разработчик на Golang, area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: true)
+Vacancy(id: 43304467, name: Golang Team Lead (PaaS), area: Москва, salary: unknown
+Vacancy(id: 46349868, name: Golang-developer, area: Москва, salary: unknown
+Vacancy(id: 46345414, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46353986, name: Golang Developer, area: Москва, salary: from: 140000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 46353695, name: Golang разработчик (Middle/Teamlead), area: Москва, salary: from: -1, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 44201503, name: Golang Expert/Golang developer, area: Москва, salary: unknown
+Vacancy(id: 43877559, name: Backend-разработчик (Golang), area: Москва, salary: unknown
+Vacancy(id: 46382704, name: Middle Backend Developer Go, area: Москва, salary: from: 3000, to: 4000, currency: USD, is_gross: true)
+Vacancy(id: 43432370, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46445639, name: Golang Team Lead, area: Москва, salary: unknown
+Vacancy(id: 46345934, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46328363, name: Golang программист, area: Москва, salary: unknown
+Vacancy(id: 45699271, name: Senior Golang Developer for Imunify AntiSpam [Remote], area: Москва, salary: unknown
+Vacancy(id: 46387655, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46490711, name: Backend developer (Kotlin), area: Москва, salary: unknown
+Vacancy(id: 46350993, name: Senior Golang developer, area: Москва, salary: unknown
+Vacancy(id: 46306902, name: Senior/Lead Golang Developer, area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45564170, name: Golang developer, area: Москва, salary: unknown
+Vacancy(id: 45842425, name: Go/Python разработчик (Middle), area: Москва, salary: unknown
+Vacancy(id: 46272856, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 44988736, name: Senior Golang Developer (Air), area: Москва, salary: unknown
+Vacancy(id: 46238222, name: Golang Developer Go / Разработчик Golang / Программист Golang (от middle), area: Москва, salary: from: 100000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46259825, name: Golang/Python разработчик, area: Москва, salary: unknown
+Vacancy(id: 46306130, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46200721, name: Ведущий разработчик Golang (remote), area: Москва, salary: from: 230000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 43857609, name: Middle Golang Developer (WBCloud), area: Москва, salary: unknown
+Vacancy(id: 46277849, name: Software Engineer (Golang) / Backend-разработчик, area: Москва, salary: from: 140000, to: 270000, currency: RUR, is_gross: false)
+Vacancy(id: 46225736, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 43131109, name: Backend Golang Developer (SIEM KUMA), area: Москва, salary: unknown
+Vacancy(id: 46274609, name: Backend разработчик eSports (Golang), area: Москва, salary: unknown
+Vacancy(id: 43001394, name: Middle/Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 42267653, name: Middle golang developer, area: Москва, salary: unknown
+Vacancy(id: 46151290, name: Golang developer (Wink), area: Москва, salary: unknown
+Vacancy(id: 45493006, name: Middle Golang Developer (команда платежного шлюза), area: Москва, salary: unknown
+Vacancy(id: 44173474, name: Golang Backend Developer / Backend Developer, area: Москва, salary: unknown
+Vacancy(id: 46058711, name: Golang разработчик, area: Москва, salary: from: 180000, to: 270000, currency: RUR, is_gross: false)
+Vacancy(id: 43822166, name: Golang-разработчик/Senior Golang-разработчик, area: Москва, salary: unknown
+Vacancy(id: 46098036, name: Golang developer, area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 45589801, name: Middle Golang Developer, area: Москва, salary: from: 100000, to: 180000, currency: RUR, is_gross: false)
+Vacancy(id: 44977933, name: Разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 46100974, name: Golang developer, area: Москва, salary: unknown
+Vacancy(id: 45213750, name: Golang developer, area: Москва, salary: from: -1, to: 450000, currency: RUR, is_gross: false)
+Vacancy(id: 45635640, name: Go/Golang Backend-разработчик, area: Москва, salary: from: 150000, to: 240000, currency: RUR, is_gross: false)
+Vacancy(id: 45492680, name: Golang senior-developer (команда платежного шлюза), area: Москва, salary: unknown
+Vacancy(id: 46211409, name: Golang-разработчик, area: Москва, salary: unknown
+Vacancy(id: 44035127, name: Golang developer, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43427932, name: Golang/ Go-разработчик, area: Москва, salary: unknown
+Vacancy(id: 45965099, name: Senior Golang разработчик, area: Москва, salary: from: -1, to: 320000, currency: RUR, is_gross: false)
+Vacancy(id: 46175047, name: Backend developer Go, area: Москва, salary: from: 130000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 44550001, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46087604, name: Go developer, area: Москва, salary: unknown
+Vacancy(id: 46041578, name: Backend Developer (Golang), area: Москва, salary: unknown
+Vacancy(id: 38467275, name: Golang - разработчик, area: Москва, salary: unknown
+Vacancy(id: 46093945, name: Golang-разработчик, area: Москва, salary: unknown
+Vacancy(id: 45213531, name: Golang developer / Lead, area: Москва, salary: from: -1, to: 400000, currency: RUR, is_gross: false)
+Vacancy(id: 45872575, name: Middle Golang Developer, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45964961, name: Golang разработчик, area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46008185, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46276140, name: Backend разработчик (golang), area: Москва, salary: unknown
+Vacancy(id: 45156413, name: Golang разработчик (Remote), area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44535853, name: Senior Backend developer (Go) (remote), area: Москва, salary: unknown
+Vacancy(id: 45616929, name: Middle/Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 45960190, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 45906877, name: Middle/senior Golang developer, area: Москва, salary: unknown
+Vacancy(id: 46061324, name: Go Golang Разработчик, area: Москва, salary: from: 60000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45929663, name: Senior Golang developer, area: Москва, salary: unknown
+Vacancy(id: 44455859, name: Разработчик ПО (Golang), area: Москва, salary: unknown
+Vacancy(id: 45868485, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 45940072, name: Backend разработчик go (golang), area: Москва, salary: from: 150000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 41727246, name: Разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 46597716, name: Golang Developer (Demand), area: Москва, salary: unknown
+Vacancy(id: 46479824, name: GoLand разработчик (Middle/Senior), area: Москва, salary: from: 150000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46351042, name: Python Developer, area: Москва, salary: from: 2000, to: -1, currency: EUR, is_gross: false)
+Vacancy(id: 46607888, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 42726367, name: Разработчик Golang (транспортный процессинг), area: Москва, salary: unknown
+Vacancy(id: 46636053, name: Golang разработчик (СберМитап), area: Москва, salary: unknown
+Vacancy(id: 44686561, name: Python/Go Developer (Central Services), area: Москва, salary: unknown
+Vacancy(id: 46392606, name: Senior/middle Ruby on rails Developer в продуктовую команду, area: Москва, salary: from: -1, to: 230000, currency: RUR, is_gross: false)
+Vacancy(id: 46532078, name: Fullstack программист (golang/reactjs), area: Москва, salary: from: -1, to: 200000, currency: RUR, is_gross: true)
+Vacancy(id: 46532185, name: Разработчик GO, area: Москва, salary: unknown
+Vacancy(id: 46559066, name: Middle Golang Developer (сервис обработки заказов), area: Москва, salary: unknown
+Vacancy(id: 42397159, name: Middle/Senior C++ Developer, area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46534946, name: Golang-разработчик (Привлечение), area: Москва, salary: unknown
+Vacancy(id: 41688410, name: Pазработчик Backend Go (Мобильное приложение), area: Москва, salary: unknown
+Vacancy(id: 46619182, name: Fullstack разработчик / Fullstack developer (Go/React), area: Москва, salary: unknown
+Vacancy(id: 46574276, name: Разработчик C++ в команду видео-инфраструктуры (backend), area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44154541, name: Full Stack Developer (Go/Vue), area: Москва, salary: unknown
+Vacancy(id: 46517860, name: Lead/Senior Golang/NoSQL (в Анапу), area: Москва, salary: from: 200000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 46607377, name: Разработчик Golang (Premium Solutions), area: Москва, salary: unknown
+Vacancy(id: 45189538, name: Программист Golang Senior, Middle+, area: Москва, salary: unknown
+Vacancy(id: 46130466, name: Java/Kotlin разработчик (Senior), area: Москва, salary: from: 260000, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 46428205, name: Python разработчик (middle / middle+) в международную компанию (удаленно), area: Москва, salary: from: 150000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 45808878, name: Middle/Senior Python Developer, area: Москва, salary: unknown
+Vacancy(id: 46595660, name: Python/Go developer, area: Москва, salary: unknown
+Vacancy(id: 46020299, name: Senior Go-разработчик на международный проект, area: Москва, salary: unknown
+Vacancy(id: 46099335, name: Разработчик Go /TeamLead, area: Москва, salary: unknown
+Vacancy(id: 44644094, name: Junior/Middle Golang-разработчик (Поисковые роботы), area: Москва, salary: unknown
+Vacancy(id: 44586680, name: Разработчик бекенда (Go), area: Москва, salary: unknown
+Vacancy(id: 45992177, name: Senior NodeJs Developer, area: Москва, salary: from: 3000, to: 5600, currency: USD, is_gross: true)
+Vacancy(id: 46247613, name: Программист Backend, area: Москва, salary: unknown
+Vacancy(id: 45386273, name: Младший Golang разработчик, area: Москва, salary: from: 50000, to: 70000, currency: RUR, is_gross: false)
+Vacancy(id: 46413733, name: Senior Blockchain Developer / Ведущий блокчейн разработчик, area: Москва, salary: from: 400000, to: 700000, currency: RUR, is_gross: true)
+Vacancy(id: 46590016, name: Главный разработчик / Team Lead Golang, area: Москва, salary: unknown
+Vacancy(id: 41101791, name: PHP Developer, area: Москва, salary: from: 150000, to: 220000, currency: RUR, is_gross: false)
+Vacancy(id: 46629311, name: Go/PHP developer, area: Москва, salary: unknown
+Vacancy(id: 39648376, name: Backend Senior Python Developer, area: Москва, salary: unknown
+Vacancy(id: 46428148, name: Junior Python разработчик ,удаленно, area: Москва, salary: from: 60000, to: 80000, currency: RUR, is_gross: false)
+Vacancy(id: 45851567, name: Middle Python разработчик, area: Москва, salary: unknown
+Vacancy(id: 43856261, name: Senior Node.js Developer, area: Москва, salary: from: 220000, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 46607579, name: Lead Software Engineer/ Senior Developer (Go/Ruby), area: Москва, salary: from: -1, to: 360000, currency: RUR, is_gross: false)
+Vacancy(id: 46487211, name: Senior React Developer, area: Москва, salary: unknown
+Vacancy(id: 45768570, name: Разработчик Go (Recommendations), area: Москва, salary: unknown
+Vacancy(id: 46486554, name: PHP developer (Remote), area: Москва, salary: from: 3000, to: -1, currency: USD, is_gross: false)
+Vacancy(id: 43797127, name: Go-разработчик, area: Москва, salary: unknown
+Vacancy(id: 41263186, name: Senior Python developer, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46631801, name: Python Developer (Partners), area: Москва, salary: unknown
+Vacancy(id: 45643451, name: Team Lead Go, area: Москва, salary: from: 270000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43618670, name: Go-разработчик (Linux), area: Москва, salary: from: 160000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44669716, name: Разработчик С/С++/Python, area: Москва, salary: unknown
+Vacancy(id: 46479664, name: Senior DevOps Engineer, area: Москва, salary: unknown
+Vacancy(id: 46568894, name: Старший разработчик Go, Ozon.Travel, area: Москва, salary: unknown
+Vacancy(id: 43522324, name: Разработчик облачного хранилища (Go), area: Москва, salary: unknown
+Vacancy(id: 45956207, name: Php разработчик в Admin Platform, area: Москва, salary: unknown
+Vacancy(id: 45888208, name: Back-end (PHP) программист, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46258803, name: Разработчик Go, Ограничения доставки, area: Москва, salary: unknown
+Vacancy(id: 46425761, name: Разработчик GO (Premium Solutions), area: Москва, salary: unknown
+Vacancy(id: 46314392, name: Senior Software Backend Engineer in Deutschland, area: Москва, salary: from: 5000, to: 7000, currency: EUR, is_gross: true)
+Vacancy(id: 37583293, name: Python developer, area: Москва, salary: unknown
+Vacancy(id: 45286374, name: Руководитель направления Python/GO, area: Москва, salary: unknown
+Vacancy(id: 46573775, name: Full stack developer, area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45144877, name: Senior Golang Developer (Gardener project), area: Москва, salary: unknown
+Vacancy(id: 46528130, name: Senior PHP Developer (Architecture Team), area: Москва, salary: from: 230000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46519431, name: Senior DevOps Engineer - AWS, area: Москва, salary: from: 6000, to: 8000, currency: USD, is_gross: true)
+Vacancy(id: 46549297, name: DevOps engineer, area: Москва, salary: unknown
+Vacancy(id: 46585256, name: Senior Python/Golang Engineer [Logistics team], area: Москва, salary: unknown
+Vacancy(id: 46622138, name: Senior PHP Developer (Billing), area: Москва, salary: unknown
+Vacancy(id: 46373909, name: Go разработчик ( Middle+/Senior) Messaging Platform / SberDevices, area: Москва, salary: unknown
+Vacancy(id: 46632959, name: Руководитель разработки / тимлид (GoLang), area: Москва, salary: from: 350000, to: 500000, currency: RUR, is_gross: false)
+Vacancy(id: 46065308, name: Senior Backend Developer (Laravel + Go/C#), area: Москва, salary: from: 220000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 46480518, name: Senior developer / teamlead (frontend/mobile), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46070546, name: Site Reliability Engineer (Go, Linux, Prometheus, Grafana)., area: Москва, salary: unknown
+Vacancy(id: 46614158, name: PHP-разработчик удаленно, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45835677, name: Senior Java Developer, area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43449451, name: Ведущий backend-разработчик (DDoS Protection), area: Москва, salary: unknown
+Vacancy(id: 46605672, name: Программист-разработчик, area: Москва, salary: from: 100000, to: 150000, currency: RUR, is_gross: true)
+Vacancy(id: 44847663, name: Go разработчик / Golang Developer в SberDevices (Messaging Platform), area: Москва, salary: unknown
+Vacancy(id: 46060854, name: DevOps Engineer, area: Москва, salary: unknown
+Vacancy(id: 46309297, name: Senior iOS Engineer (Swift), area: Москва, salary: from: 6000, to: -1, currency: USD, is_gross: false)
+Vacancy(id: 45300311, name: Backend-разработчик C#, area: Москва, salary: unknown
+Vacancy(id: 44574131, name: Backend/ Infrastructure - Разработчик (Облако), area: Москва, salary: unknown
+Vacancy(id: 46531654, name: Senior PHP Developer // Relocation, area: Москва, salary: from: 4000, to: -1, currency: EUR, is_gross: false)
+Vacancy(id: 43281404, name: Ruby программист, area: Москва, salary: unknown
+Vacancy(id: 45342525, name: Разработчик Go, Кастомные интеграции и селлер апи, area: Москва, salary: unknown
+Vacancy(id: 46592752, name: РНР разработчик, area: Москва, salary: unknown
+Vacancy(id: 45884963, name: DevOps Engineer PSP (удаленно), area: Москва, salary: unknown
+Vacancy(id: 39800334, name: Backend-разработчик Go, area: Москва, salary: unknown
+Vacancy(id: 44706070, name: Senior Software Engineer (Golang), area: Москва, salary: unknown
+Vacancy(id: 44125885, name: Software Engineer (Golang), area: Москва, salary: unknown
+Vacancy(id: 46508613, name: Middle Go developer, area: Москва, salary: unknown
+Vacancy(id: 46513655, name: Backend разработчик PHP/Go, area: Москва, salary: unknown
+Vacancy(id: 46065401, name: Backend Developer (Laravel), area: Москва, salary: unknown
+Vacancy(id: 46178018, name: Middle Data Engineer, area: Москва, salary: unknown
+Vacancy(id: 46531700, name: Senior PHP Developer // Remote, area: Москва, salary: from: 3500, to: -1, currency: EUR, is_gross: false)
+Vacancy(id: 42556899, name: Senior Software Engineer (Golang), area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46562380, name: Стажер-разработчик Golang (направление разработки банковских продуктов, Ozon Fintech), area: Москва, salary: unknown
+Vacancy(id: 45179802, name: Go-разработчик виртуальной инфраструктуры, area: Москва, salary: unknown
+Vacancy(id: 45369350, name: Разработчик PHP, area: Москва, salary: unknown
+Vacancy(id: 45988368, name: DevOPS Engineer, area: Москва, salary: unknown
+Vacancy(id: 46558467, name: Ведущий PHP разработчик, area: Москва, salary: from: 200000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46017228, name: Frontend-разработчик (React), area: Москва, salary: from: 110000, to: 130000, currency: RUR, is_gross: false)
+Vacancy(id: 46601590, name: DevOps engineer, area: Москва, salary: unknown
+Vacancy(id: 43880320, name: Младший разработчик бекенда (Go), area: Москва, salary: unknown
+Vacancy(id: 45723367, name: Разработчик Ruby (Ruby on Rails), area: Москва, salary: from: 130000, to: 170000, currency: RUR, is_gross: false)
+Vacancy(id: 45817672, name: С++ разработчик (команда баннерной системы, MyTarget), area: Москва, salary: unknown
+Vacancy(id: 46535223, name: DevOps-инженер (AdTech), area: Москва, salary: unknown
+Vacancy(id: 46566715, name: Blockchain Crosschain Developer (LACHAIN ), area: Москва, salary: from: 6000, to: 10000, currency: USD, is_gross: true)
+Vacancy(id: 43093831, name: Senior Ruby on Rails Developer, area: Москва, salary: unknown
+Vacancy(id: 46005908, name: DevOps Инженер, area: Москва, salary: unknown
+Vacancy(id: 36936316, name: PHP-программист, area: Москва, salary: unknown
+Vacancy(id: 46568595, name: DevOps / Release Engineer, area: Москва, salary: unknown
+Vacancy(id: 45788828, name: Golang разработчик (проект Ростелеком Ключ), area: Москва, salary: unknown
+Vacancy(id: 46054344, name: PHP-разработчик, area: Москва, salary: unknown
+Vacancy(id: 45904776, name: Go-разработчик (технический департамент), area: Москва, salary: unknown
+Vacancy(id: 46624937, name: Стажер-разработчик Golang (Группа "Оформления заказов"), area: Москва, salary: unknown
+Vacancy(id: 46486826, name: Teamlead/Руководитель группы разработки, area: Москва, salary: unknown
+Vacancy(id: 46545568, name: Devops-инженер по доставке трафика, area: Москва, salary: unknown
+Vacancy(id: 45232165, name: Разработчик поискового ядра C++, area: Москва, salary: unknown
+Vacancy(id: 46528249, name: Ведущий Разработчик Python офлайн интеграции, area: Москва, salary: unknown
+Vacancy(id: 45987173, name: Senior QA Automation (Remote), area: Москва, salary: from: 3000, to: -1, currency: USD, is_gross: false)
+Vacancy(id: 46544072, name: Разработчик Go, Клиентские сервисы / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 45087786, name: Разработчик Go, Путь совершения покупки/Хайлайты, area: Москва, salary: unknown
+Vacancy(id: 44515723, name: Разработчик BI, area: Москва, salary: unknown
+Vacancy(id: 46519939, name: Middle/Senior Java Developer (Smart Home), area: Москва, salary: unknown
+Vacancy(id: 41703678, name: Specialist DevOps, area: Москва, salary: from: -1, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 46624976, name: Старший системный администратор Linux/DevOps, area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 44360630, name: DevOps инженер, area: Москва, salary: unknown
+Vacancy(id: 46592978, name: Middle QA Automation Engineer, area: Москва, salary: from: 150000, to: 170000, currency: RUR, is_gross: false)
+Vacancy(id: 45835678, name: Architect / Tech Lead (Java), area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44973336, name: Senior Frontend developer (Vue.js), area: Москва, salary: from: 220000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45088206, name: Разработчик Go, Путь совершения покупки/Платформа коммуникаций, area: Москва, salary: unknown
+Vacancy(id: 46632585, name: DevOps / SRE инженер, area: Москва, salary: unknown
+Vacancy(id: 45969432, name: SRE инженер (Infrastructure), area: Москва, salary: unknown
+Vacancy(id: 46605469, name: DevOps инженер (Big Data), area: Москва, salary: unknown
+Vacancy(id: 46552498, name: Стажер-разработчик Golang / группа "Кабинет бренда, контроль качества", area: Москва, salary: unknown
+Vacancy(id: 46277606, name: Тимлид Go/Javascript, area: Москва, salary: from: -1, to: 400000, currency: RUR, is_gross: false)
+Vacancy(id: 45080822, name: QA engineer, area: Москва, salary: unknown
+Vacancy(id: 46222803, name: Senior JAVA developer (Cloud-Native Client Profile), area: Москва, salary: unknown
+Vacancy(id: 46001389, name: Разработчик‎ Ruby on Rails, area: Москва, salary: unknown
+Vacancy(id: 40931777, name: DevOps, area: Москва, salary: unknown
+Vacancy(id: 45768556, name: Разработчик в команду качества поиска, area: Москва, salary: unknown
+Vacancy(id: 41771594, name: Senior DevOps Engineer (AWS), area: Москва, salary: unknown
+Vacancy(id: 38520434, name: Senior DevOps engineer, area: Москва, salary: unknown
+Vacancy(id: 46563616, name: Go-разработчик (команда Рекламных технологий), area: Москва, salary: unknown
+Vacancy(id: 39628627, name: DevOps engineer на проект Digital Credit, area: Москва, salary: unknown
+Vacancy(id: 44941465, name: Go-разработчик (технический департамент), area: Москва, salary: unknown
+Vacancy(id: 46585998, name: Frontend разработчик (React / Redux), area: Москва, salary: unknown
+Vacancy(id: 46467121, name: CTO/Технический руководитель (Lead), area: Москва, salary: from: 400000, to: 500000, currency: RUR, is_gross: true)
+Vacancy(id: 43909806, name: Разработчик (язык С), area: Москва, salary: unknown
+Vacancy(id: 38296746, name: Fullstack Разработчик, area: Москва, salary: unknown
+Vacancy(id: 45396149, name: Data Engineer, area: Москва, salary: unknown
+Vacancy(id: 45884171, name: Data Engineer в команду Качества поиска, area: Москва, salary: unknown
+Vacancy(id: 46235657, name: Frontend Developer (Поисковая выдача), area: Москва, salary: unknown
+Vacancy(id: 46633986, name: QA Engineer / Тестировщик, area: Москва, salary: from: 100000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46508641, name: Senior backend engineer, area: Москва, salary: unknown
+Vacancy(id: 44149993, name: DevOps Engineer, area: Москва, salary: unknown
+Vacancy(id: 44126569, name: Software Engineer (DDoS Protection), area: Москва, salary: unknown
+Vacancy(id: 46230187, name: Cистемный администратор Linux (команда R&D), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43907974, name: SRE/Linux администратор, area: Москва, salary: unknown
+Vacancy(id: 45574515, name: Специалист по информационной безопастности (AppSec, DevSecOps Senior), area: Москва, salary: unknown
+Vacancy(id: 46178789, name: QA Automation Engineer/Тестировщик - Автоматизатор ПО, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46309533, name: QA Engineer, area: Москва, salary: unknown
+Vacancy(id: 46633774, name: Специалист по тестированию (IC++), area: Москва, salary: unknown
+Vacancy(id: 45768525, name: QA automation engineer (Communications), area: Москва, salary: unknown
+Vacancy(id: 46506043, name: Middle PHP-разработчик, area: Москва, salary: unknown
+Vacancy(id: 43169863, name: DevOps инженер, area: Москва, salary: unknown
+Vacancy(id: 41747649, name: Data Architect (Архитектор данных), area: Москва, salary: unknown
+Vacancy(id: 45098076, name: Разработчик Go, Тарификатор маркетплейса / Доставка, area: Москва, salary: unknown
+Vacancy(id: 46607419, name: Site Reliability Engineer, area: Москва, salary: from: -1, to: 360000, currency: RUR, is_gross: false)
+Vacancy(id: 45973582, name: DevOps Lead Engineer, area: Москва, salary: unknown
+Vacancy(id: 44481907, name: ML Engineer / Data Scientist, area: Москва, salary: unknown
+Vacancy(id: 46573565, name: Сетевой инженер – тестировщик оборудования со знанием Linux, area: Москва, salary: from: 50000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46257768, name: Руководитель группы Go, Ограничения доставки, area: Москва, salary: unknown
+Vacancy(id: 45077807, name: Разработчик Go, Путь совершения покупки/Пользовательские коммуникации, area: Москва, salary: unknown
+Vacancy(id: 45506755, name: Старший системный администратор, area: Москва, salary: unknown
+Vacancy(id: 46628110, name: Security Operation Center (SOC) Engineer, area: Москва, salary: unknown
+Vacancy(id: 46558622, name: QA Engineer, area: Москва, salary: unknown
+Vacancy(id: 46060863, name: Руководитель разработки в новую бизнес вертикаль, area: Москва, salary: unknown
+Vacancy(id: 45866967, name: Разработчик Go (Calltracking), area: Москва, salary: unknown
+Vacancy(id: 43287034, name: Scrum Master, area: Москва, salary: unknown
+Vacancy(id: 46512601, name: Инженер по нагрузочному тестированию (Junior), area: Москва, salary: unknown
+Vacancy(id: 45252447, name: Platform Engineer, area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46536317, name: Системный архитектор, area: Москва, salary: from: -1, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 46292919, name: IT рекрутер, area: Москва, salary: unknown
+Vacancy(id: 45713991, name: Middle QA Engineer, area: Москва, salary: from: 130000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46566697, name: Разработчик Go (Базовые сервисы и инструменты, Инструменты анализа производительности), area: Москва, salary: unknown
+Vacancy(id: 45869742, name: Релиз-инженер, area: Москва, salary: unknown
+Vacancy(id: 45873830, name: Разработчик Go (Платформа Backoffice as a Service), area: Москва, salary: unknown
+Vacancy(id: 45086084, name: Senior Backend Разработчик в Мессенджер, area: Москва, salary: unknown
+Vacancy(id: 46520989, name: Старший системный администратор, area: Москва, salary: unknown
+Vacancy(id: 46521794, name: Специалист по анализу защищённости / пентестер в Инфосекьюрити, area: Москва, salary: unknown
+Vacancy(id: 46533722, name: Специалист по телекоммуникациям/Инфраструктура, area: Москва, salary: unknown
+Vacancy(id: 43431253, name: Teamlead (Messenger), area: Москва, salary: unknown
+Vacancy(id: 46511563, name: Архитектор программного обеспечения — Департамент информационных технологий, area: Москва, salary: unknown
+Vacancy(id: 45526946, name: Системный аналитик, area: Москва, salary: unknown
+Vacancy(id: 45576141, name: Стажёр-разработчик Go, Антифрод системы / Торговая площадка, area: Москва, salary: unknown
+Vacancy(id: 43999045, name: Методист-разработчик школы Golang, area: Москва, salary: unknown
+Vacancy(id: 45780614, name: Teamlead (Back Office Core), area: Москва, salary: unknown
+Vacancy(id: 45866707, name: QA automation engineer (IN-APP-CALLS), area: Москва, salary: unknown
+Vacancy(id: 46489857, name: Специалист по работе с клиентами/администратор, area: Москва, salary: unknown
+Vacancy(id: 40992175, name: Разработчик ETL, Обработка и хранение данных, area: Москва, salary: unknown
+Vacancy(id: 45706488, name: Разработчик Go, Путь совершения покупки/Платформа чатов, area: Москва, salary: unknown
+Vacancy(id: 46487502, name: Ведущий разработчик (Golang), area: Москва, salary: unknown
+Vacancy(id: 46483020, name: Go Developer, area: Москва, salary: unknown
+Vacancy(id: 46490439, name: GO lang, MQTT Программист (дистанционно), area: Москва, salary: from: 1500, to: 3000, currency: USD, is_gross: false)
+Vacancy(id: 46489447, name: Senior PHP разработчик (Backend), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45664181, name: Go-разработчик (Пульс), area: Москва, salary: unknown
+Vacancy(id: 46487593, name: Fullstack Developer (Golang / javascript), area: Москва, salary: unknown
+Vacancy(id: 45691541, name: Senior PHP/Go Developer (Marketplace/Dispatch), area: Москва, salary: unknown
+Vacancy(id: 44838758, name: Старший разработчик Go, Платформа/Core, area: Москва, salary: unknown
+Vacancy(id: 46489490, name: Middle PHP разработчик (Backend), area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 40942389, name: Python программист, area: Москва, salary: unknown
+Vacancy(id: 46488565, name: Ведущий Backend-разработчик (Golang) — Департамент информационных технологий, area: Москва, salary: unknown
+Vacancy(id: 44083653, name: Разработчик Go, Внутренние сервисы, area: Москва, salary: unknown
+Vacancy(id: 46475816, name: Backend-разработчик (Golang) — Департамент информационных технологий, area: Москва, salary: unknown
+Vacancy(id: 46489477, name: Team Lead Go/ Руководитель группы разработки, area: Москва, salary: unknown
+Vacancy(id: 46490326, name: DevOps (Пульс), area: Москва, salary: unknown
+Vacancy(id: 46478585, name: Go-разработчик (Мультимаркет), area: Москва, salary: unknown
+Vacancy(id: 45689268, name: Senior PHP Developer (Marketplace/Acquiring), area: Москва, salary: unknown
+Vacancy(id: 45922550, name: Java-разработчик Platform V Functions, area: Москва, salary: unknown
+Vacancy(id: 44265030, name: Разработчик ETL, area: Москва, salary: unknown
+Vacancy(id: 45372688, name: Разработчик Go, Базовые сервисы и инструменты, Маркетплейс., area: Москва, salary: unknown
+Vacancy(id: 46327139, name: Стажер-разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 44807006, name: Разработчик Go/Python (Security), area: Москва, salary: unknown
+Vacancy(id: 46453479, name: Middle/Senior Golang Developer (удаленно), area: Москва, salary: unknown
+Vacancy(id: 46455327, name: Golang developer, area: Москва, salary: unknown
+Vacancy(id: 46444199, name: Разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 46447693, name: Go-разработчик (Ментор), area: Москва, salary: unknown
+Vacancy(id: 46445708, name: Python/Go developer, area: Москва, salary: unknown
+Vacancy(id: 45371470, name: Golang Developer (Threat Intelligence Portal), area: Москва, salary: unknown
+Vacancy(id: 46475975, name: Senior System Software Engineer, area: Москва, salary: unknown
+Vacancy(id: 45681986, name: PHP developer, area: Москва, salary: unknown
+Vacancy(id: 46478328, name: Разработчик MS SQL, area: Москва, salary: unknown
+Vacancy(id: 46452381, name: Team Lead (PHP/Go), area: Москва, salary: unknown
+Vacancy(id: 46459885, name: Senior JavaScript Developer, area: Москва, salary: from: 5000, to: 7000, currency: USD, is_gross: false)
+Vacancy(id: 45379469, name: Support Engineer, area: Москва, salary: unknown
+Vacancy(id: 45743212, name: Руководитель группы Go, Маркетплейс / Личный кабинет продавца, area: Москва, salary: unknown
+Vacancy(id: 46461171, name: DQ-разработчик, area: Москва, salary: unknown
+Vacancy(id: 46485300, name: Senior IT Recruiter, area: Москва, salary: unknown
+Vacancy(id: 46458095, name: Senior JavaScript Developer, area: Москва, salary: from: 5000, to: 7000, currency: USD, is_gross: false)
+Vacancy(id: 46450789, name: Open Source Cloud Senior Developer (CNCF), area: Москва, salary: unknown
+Vacancy(id: 46460911, name: DevOps инженер-специалист по CI/CD, area: Москва, salary: unknown
+Vacancy(id: 39140898, name: Java/Go developer, area: Москва, salary: unknown
+Vacancy(id: 46443749, name: Разработчик Go (Базовые сервисы и инструменты), area: Москва, salary: unknown
+Vacancy(id: 46452600, name: DevOps, area: Москва, salary: unknown
+Vacancy(id: 45630415, name: Старший разработчик Go, Путь совершения покупки/CDP и DMP, area: Москва, salary: unknown
+Vacancy(id: 46433378, name: Разработчик Go, Антифрод / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 46451350, name: DevOps (на Кипр), area: Москва, salary: unknown
+Vacancy(id: 45855947, name: PHP/Go Developer (B2B), area: Москва, salary: unknown
+Vacancy(id: 45523235, name: Разработчик Go (Classified), area: Москва, salary: unknown
+Vacancy(id: 46417702, name: Middle/Senior Backend Developer (PHP), area: Москва, salary: from: 150000, to: 220000, currency: RUR, is_gross: false)
+Vacancy(id: 46459520, name: QA engineer/Тестировщик Web-сервисов, area: Москва, salary: unknown
+Vacancy(id: 43438066, name: Разработчик Go (Logistics), area: Москва, salary: unknown
+Vacancy(id: 46449519, name: QA Engineer, area: Москва, salary: unknown
+Vacancy(id: 46459834, name: Architect, area: Москва, salary: unknown
+Vacancy(id: 42450240, name: Java Team Lead (Content), area: Москва, salary: from: -1, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 46458787, name: Системный архитектор, area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45366752, name: Data engineer / инженер данных, area: Москва, salary: unknown
+Vacancy(id: 46443676, name: Инженер по автотестированию (Базовые сервисы и инструменты), area: Москва, salary: unknown
+Vacancy(id: 46429133, name: Frontend React разработчик (Web/Mobile), area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43961654, name: Python разработчик (middle/senior), area: Москва, salary: unknown
+Vacancy(id: 46414511, name: Junior PHP Developer (backend)/Младший PHP разработчик, area: Москва, salary: unknown
+Vacancy(id: 46362087, name: Python/Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 45309802, name: Python-разработчик, area: Москва, salary: from: 200000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 44940340, name: Frontend-разработчик, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46417691, name: Middle/Senior Frontend Developer (React), area: Москва, salary: from: 140, to: 220000, currency: RUR, is_gross: false)
+Vacancy(id: 46409226, name: Senior Frontend (ReactJS), area: Москва, salary: from: 180000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 44911243, name: Senior Go Developer, area: Москва, salary: unknown
+Vacancy(id: 46379364, name: PHP-разработчик (MY.GAMES), area: Москва, salary: unknown
+Vacancy(id: 46410783, name: Разработчик Golang (в компанию резидент "Сколково"), area: Москва, salary: from: -1, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46382685, name: Team Lead (PHP/Go), area: Москва, salary: unknown
+Vacancy(id: 46391520, name: Junior Python Developer, area: Москва, salary: unknown
+Vacancy(id: 46391905, name: Python-программист (рекомендательные системы, сервисы на базе ML), area: Москва, salary: unknown
+Vacancy(id: 46388915, name: PHP-разработчик, area: Москва, salary: from: 120000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46389325, name: Java Developer, area: Москва, salary: unknown
+Vacancy(id: 40943374, name: Golang-разработчик, area: Москва, salary: unknown
+Vacancy(id: 46345763, name: Ruby on Rails Backend Developer, area: Москва, salary: from: 120000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46389369, name: Team Lead (Java), area: Москва, salary: unknown
+Vacancy(id: 46429124, name: Специалист по кибербезопасности, area: Москва, salary: unknown
+Vacancy(id: 46027206, name: Разработчик Python, area: Москва, salary: unknown
+Vacancy(id: 46384730, name: Devops в службу сетевой разработки, area: Москва, salary: unknown
+Vacancy(id: 45607869, name: Руководитель проектов по разработке серверного ПО, area: Москва, salary: unknown
+Vacancy(id: 41128144, name: Go developer, area: Москва, salary: unknown
+Vacancy(id: 46338588, name: Pазработчик Backend Go (Авито Работа), area: Москва, salary: unknown
+Vacancy(id: 45307083, name: Junior/Middle Golang-разработчик (Поисковые роботы), area: Москва, salary: unknown
+Vacancy(id: 40843636, name: Golang developer (MTS Cloud), area: Москва, salary: unknown
+Vacancy(id: 46342659, name: Senior Go разработчик, area: Москва, salary: unknown
+Vacancy(id: 44084522, name: Senior PHP/Go Developer (Driver App), area: Москва, salary: unknown
+Vacancy(id: 45622328, name: Senior Python Developer, area: Москва, salary: unknown
+Vacancy(id: 46421700, name: IT Recruiter, area: Москва, salary: unknown
+Vacancy(id: 46374703, name: Разработчик (Инфраструктура), area: Москва, salary: unknown
+Vacancy(id: 46386637, name: Системный архитектор (Java), area: Москва, salary: unknown
+Vacancy(id: 45978982, name: Tech Lead (Руководитель разработки), area: Москва, salary: unknown
+Vacancy(id: 43819383, name: Go-разработчик (команда почтового хранилища), area: Москва, salary: unknown
+Vacancy(id: 46390853, name: Системный архитектор / System Architect WEB, area: Москва, salary: unknown
+Vacancy(id: 46330992, name: Middle/Senior Android разработчик (Юнит Performance), area: Москва, salary: unknown
+Vacancy(id: 46359109, name: Data Engineer, area: Москва, salary: unknown
+Vacancy(id: 46306108, name: Инженер по автоматизации тестирования Android (Kotlin), area: Москва, salary: unknown
+Vacancy(id: 44951289, name: Go-разработчик (B2B Календарь), area: Москва, salary: unknown
+Vacancy(id: 46372385, name: CTO / Технический директор, area: Москва, salary: from: 450000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46321723, name: Devops engineer, area: Москва, salary: unknown
+Vacancy(id: 46345125, name: JavaScript Full-stack, area: Москва, salary: unknown
+Vacancy(id: 40909700, name: Разработчик Go, Рекламная платформа, area: Москва, salary: unknown
+Vacancy(id: 46341991, name: Linux администратор / DevOps инженер, area: Москва, salary: unknown
+Vacancy(id: 46331054, name: Frontend разработчик (Юнит Performance), area: Москва, salary: unknown
+Vacancy(id: 43852580, name: Data Scientist, Поиск / Товарные рекомендации, area: Москва, salary: unknown
+Vacancy(id: 42495855, name: Ведущий разработчик Go, Рекламная платформа, area: Москва, salary: unknown
+Vacancy(id: 45756882, name: Project manager (ТВ-каналы), area: Москва, salary: unknown
+Vacancy(id: 46339354, name: QA Auto Engineer (Авито Работа), area: Москва, salary: unknown
+Vacancy(id: 43091084, name: Руководитель группы разработки GO, рекламная платформа, area: Москва, salary: unknown
+Vacancy(id: 46368390, name: Специалист по информационной безопасности (ФинТех), area: Москва, salary: from: 120000, to: 160000, currency: RUR, is_gross: false)
+Vacancy(id: 43232957, name: Разработчик решений (проект Tarantool), area: Москва, salary: unknown
+Vacancy(id: 46374872, name: Ведущий специалист по микросервисной архитектуре и поддержке транзакционных сервисов, area: Москва, salary: unknown
+Vacancy(id: 46344559, name: Разработчик Go, Путь совершения покупки/В2В и специальные проекты, area: Москва, salary: unknown
+Vacancy(id: 43159374, name: Архитектор развития платформенных решений UMP, area: Москва, salary: unknown
+Vacancy(id: 45529753, name: QA инженер (Classified), area: Москва, salary: unknown
+Vacancy(id: 46309835, name: Python&Golang developer (Middle/Senior), area: Москва, salary: unknown
+Vacancy(id: 46345709, name: Руководитель группы инженеров devops, Эксплуатация, area: Москва, salary: unknown
+Vacancy(id: 46306948, name: Senior Golang Developer (remote), area: Москва, salary: from: 6000, to: 8000, currency: USD, is_gross: false)
+Vacancy(id: 46403382, name: Начальник отдела маршрутизации, area: Москва, salary: unknown
+Vacancy(id: 46286354, name: Golang разработчик (удаленно), area: Москва, salary: unknown
+Vacancy(id: 46294342, name: GO Developer, area: Москва, salary: unknown
+Vacancy(id: 46306924, name: Senior Java Developer (remote or Barcelona), area: Москва, salary: from: 6000, to: 8000, currency: USD, is_gross: true)
+Vacancy(id: 46308868, name: Golang Developer (платформа управления инфраструктурой), area: Москва, salary: unknown
+Vacancy(id: 46306895, name: DevOps Engineer, area: Москва, salary: from: 6000, to: 8000, currency: USD, is_gross: true)
+Vacancy(id: 45501229, name: PHP developer, area: Москва, salary: unknown
+Vacancy(id: 40765118, name: Go-разработчик в команду IAM (Mail.ru Cloud Solution), area: Москва, salary: unknown
+Vacancy(id: 46260867, name: Golang developer в Yandex.Cloud, area: Москва, salary: unknown
+Vacancy(id: 43770378, name: Senior Machine Learning Developer (Java/Python), area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 45467626, name: Разработчик PHP/GO (Billing), area: Москва, salary: unknown
+Vacancy(id: 44012622, name: Релиз-инженер, Эксплуатация, area: Москва, salary: unknown
+Vacancy(id: 43930942, name: Web-разработчик PHP в команду веб-разработки Ситилинк, area: Москва, salary: unknown
+Vacancy(id: 46281017, name: Программист-алгоритмист, area: Москва, salary: unknown
+Vacancy(id: 42875833, name: PHP/Golang Developer (Backoffice), area: Москва, salary: unknown
+Vacancy(id: 46223928, name: Go Developer (Fuel), area: Москва, salary: unknown
+Vacancy(id: 46253741, name: Старший разработчик Go, Сервис управления знаниями / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 45574234, name: Senior Go developer, area: Москва, salary: unknown
+Vacancy(id: 46298644, name: Инженер по автоматизации тестирования, Рекламная платформа, area: Москва, salary: unknown
+Vacancy(id: 46301058, name: QA engineer, area: Москва, salary: unknown
+Vacancy(id: 34041975, name: Senior golang developer, area: Москва, salary: unknown
+Vacancy(id: 46235326, name: PHP-разработчик, area: Москва, salary: from: -1, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46265787, name: Руководитель группы разработки Go, Логистика, area: Москва, salary: unknown
+Vacancy(id: 46294843, name: Service Delivery Manager, area: Москва, salary: unknown
+Vacancy(id: 46217238, name: Разработчик Go, Каталог, area: Москва, salary: unknown
+Vacancy(id: 44940416, name: QA Automation Engineer, area: Москва, salary: from: 120000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46177934, name: Senior Backend Developer (ruby/go), area: Москва, salary: from: 5000, to: 7000, currency: USD, is_gross: false)
+Vacancy(id: 46246013, name: Стажер по Нагрузочному тестированию (Java, C#, C++), area: Москва, salary: unknown
+Vacancy(id: 45619679, name: Senior Golang Developer (software-defined storage), area: Москва, salary: unknown
+Vacancy(id: 46209835, name: Golang developer [МТС Медиа], area: Москва, salary: unknown
+Vacancy(id: 37790906, name: Senior Backend разработчик (Go), area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 46272041, name: Стажёр-разработчик Scala (Хранение и обработка данных / Группа систем хранения и обработки данных), area: Москва, salary: unknown
+Vacancy(id: 40196260, name: Разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 43651589, name: Golang Developer (Data Platform), area: Москва, salary: unknown
+Vacancy(id: 43725879, name: Embedded Linux Software Specialist, area: Москва, salary: unknown
+Vacancy(id: 44845207, name: Developer C# (Developer Trading Desk Bot Platform), area: Москва, salary: from: 5000, to: 10000, currency: USD, is_gross: true)
+Vacancy(id: 46151742, name: Senior Golang (Go) Developer, area: Москва, salary: unknown
+Vacancy(id: 43185538, name: Senior backend developer (ML Space AI Cloud), area: Москва, salary: unknown
+Vacancy(id: 46150589, name: Программист Golang/С++, area: Москва, salary: unknown
+Vacancy(id: 43185140, name: Middle backend developer (ML Space AI Cloud), area: Москва, salary: unknown
+Vacancy(id: 45806688, name: Python разработчик (Middle+/Senior), area: Москва, salary: from: 200000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46035729, name: Backend Developer, area: Москва, salary: unknown
+Vacancy(id: 45503569, name: Full‌ ‌Stack‌ ‌Web‌ ‌Developer‌ ‌, area: Москва, salary: unknown
+Vacancy(id: 46182173, name: Разработчик в Yandex Database Application Team, area: Москва, salary: unknown
+Vacancy(id: 43144051, name: Fullstack разработчик (Golang), area: Москва, salary: unknown
+Vacancy(id: 46182230, name: Разработчик Yandex Database, area: Москва, salary: unknown
+Vacancy(id: 46176721, name: Senior PHP Developer (backend)/Ведущий PHP разработчик, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45399387, name: Системный администратор Linux, area: Москва, salary: unknown
+Vacancy(id: 45453669, name: Главный разработчик Golang (Видеонаблюдение), area: Москва, salary: unknown
+Vacancy(id: 40732474, name: Middle/Senior developer (Go) (СберДиск), area: Москва, salary: unknown
+Vacancy(id: 46152188, name: Стажёр-разработчик Go (Группа разработки Go платформы / Разработка платформы), area: Москва, salary: unknown
+Vacancy(id: 45539171, name: Fullstack разработчик, area: Москва, salary: unknown
+Vacancy(id: 45239007, name: Ведущий инженер по администрированию систем ДБО, area: Москва, salary: unknown
+Vacancy(id: 46158582, name: Golang разработчик (Инвестиции), area: Москва, salary: unknown
+Vacancy(id: 44535861, name: Senior Machine Learning Developer (Java/Python) (remote), area: Москва, salary: unknown
+Vacancy(id: 46179835, name: Kubernetes devops, area: Москва, salary: unknown
+Vacancy(id: 46178808, name: Junior Software Developer, area: Москва, salary: unknown
+Vacancy(id: 45728328, name: Senior QA automation, area: Москва, salary: unknown
+Vacancy(id: 42735632, name: Senior DevOps / Site Reliability Engineer, area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 45236114, name: Инженер поддержки брокерских операций, area: Москва, salary: unknown
+Vacancy(id: 30842054, name: Разработчик Go, Логистика, area: Москва, salary: unknown
+Vacancy(id: 45226728, name: Инженер поддержки транзакционных сервисов, area: Москва, salary: unknown
+Vacancy(id: 46191465, name: Разработчик Go, Логистика / Тарификация магистральных перевозок, area: Москва, salary: unknown
+Vacancy(id: 46143509, name: Senior BI Developer, area: Москва, salary: unknown
+Vacancy(id: 46187409, name: System Analyst в команду Site, area: Москва, salary: unknown
+Vacancy(id: 46216759, name: Руководитель группы разработки, Сервис управления знаниями / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 42264786, name: Solution Architect (СберДиск), area: Москва, salary: unknown
+Vacancy(id: 44749785, name: Прикладной администратор (2 я линия support) - Devops, area: Москва, salary: unknown
+Vacancy(id: 46157223, name: Программист-аналитик, area: Москва, salary: unknown
+Vacancy(id: 46232263, name: SRE-Специалист, area: Москва, salary: unknown
+Vacancy(id: 46161776, name: Senior QA (PaaS), area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 45328930, name: Middle Golang Developer (офис / удаленно), area: Москва, salary: unknown
+Vacancy(id: 41839573, name: Разработчик управляющей компоненты единого хранилища данных, area: Москва, salary: unknown
+Vacancy(id: 43046994, name: Инженер по автотестированию, Рекламная платформа, area: Москва, salary: unknown
+Vacancy(id: 45347384, name: Back-end Developer (Node/Java/Python), area: Москва, salary: unknown
+Vacancy(id: 46137736, name: DevOps Engineer (Delivery team, Perm), area: Москва, salary: unknown
+Vacancy(id: 46107568, name: Golang разработчик (удалённо), area: Москва, salary: unknown
+Vacancy(id: 46164646, name: Системный Архитектор (Web, mobile,microservises), area: Москва, salary: unknown
+Vacancy(id: 46084532, name: GoLang-разработчика (teamLead), area: Москва, salary: unknown
+Vacancy(id: 46190762, name: Менеджер проекта /Project Manager - b2c, e-com (web and mobile), area: Москва, salary: unknown
+Vacancy(id: 46075056, name: Golang developer (Платформенные сервисы), area: Москва, salary: unknown
+Vacancy(id: 46117154, name: Стажер-разработчик Golang, Ozon Рассрочка, area: Москва, salary: unknown
+Vacancy(id: 45386380, name: Java-разработчик, area: Москва, salary: unknown
+Vacancy(id: 39325088, name: Go Developer, area: Москва, salary: unknown
+Vacancy(id: 46026962, name: Архитектор высоконагруженных систем, area: Москва, salary: unknown
+Vacancy(id: 45383674, name: DevOps в команду веб-разработки Ситилинк, area: Москва, salary: unknown
+Vacancy(id: 45309919, name: Python разработчик в команду Видеосмотрения, area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 45248856, name: Senior Backend разработчик (Golang), area: Москва, salary: from: 220000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46061309, name: Ведущий разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 44393441, name: PHP Developer (senior), area: Москва, salary: unknown
+Vacancy(id: 46074175, name: Разработчик PHP, area: Москва, salary: from: 140000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44476927, name: Разработчик Back-end (Java, PostgreSQL, ClickHouse), area: Москва, salary: unknown
+Vacancy(id: 46130135, name: Разработчик Go, Финансовые сервисы / Ozon Рассрочка, area: Москва, salary: unknown
+Vacancy(id: 42935803, name: Инженер поддержки транзакционных сервисов, area: Москва, salary: unknown
+Vacancy(id: 46048032, name: Разработчик PHP/Go (Support Systems), area: Москва, salary: unknown
+Vacancy(id: 45279715, name: PHP developer (middle), area: Москва, salary: unknown
+Vacancy(id: 45999361, name: C++/Go разработчик (команда серверной разработки Myteam), area: Москва, salary: unknown
+Vacancy(id: 45085801, name: Data Engineer/ Backend-разработчик, area: Москва, salary: unknown
+Vacancy(id: 46109188, name: Разработчик Go, Путь совершения покупки/Подсказки, area: Москва, salary: unknown
+Vacancy(id: 46077575, name: PHP-программист, area: Москва, salary: unknown
+Vacancy(id: 46024949, name: Senior/Middle Software Engineer (Golang), area: Москва, salary: unknown
+Vacancy(id: 46095643, name: Data аналитик (remote), area: Москва, salary: from: -1, to: 450000, currency: RUR, is_gross: false)
+Vacancy(id: 46009366, name: Backend-разработчик, area: Москва, salary: from: 120000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44483573, name: Инженер по автоматизации тестирования, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45386502, name: Тестировщик, area: Москва, salary: unknown
+Vacancy(id: 40156802, name: Junior/Middle/Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 45976104, name: Ведущий Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46080222, name: Devops-инженер в команду CIB Managed Services, area: Москва, salary: unknown
+Vacancy(id: 42570418, name: Team Leader for RND Team, area: Москва, salary: unknown
+Vacancy(id: 45973598, name: Backend - разработчик, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46122427, name: Senior Engineering Manager (Rain), area: Москва, salary: unknown
+Vacancy(id: 45991800, name: Python Developer, area: Москва, salary: unknown
+Vacancy(id: 45998369, name: Разработчик php/go в команду поиска, area: Москва, salary: unknown
+Vacancy(id: 45984008, name: Senior Full-stack developer (удаленка), area: Москва, salary: from: 200000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 45162235, name: Backend разработчик (Юнит PaaS), area: Москва, salary: unknown
+Vacancy(id: 45316349, name: Backend developer (PHP), area: Москва, salary: unknown
+Vacancy(id: 46066371, name: DevOps-инженер, area: Москва, salary: unknown
+Vacancy(id: 42971398, name: Backend разработчик (Golang), area: Москва, salary: unknown
+Vacancy(id: 45989125, name: Разработчик Golang в команду веб-разработки Ситилинк, area: Москва, salary: unknown
+Vacancy(id: 45965481, name: Backend developer PHP/Go (Service Unit), area: Москва, salary: unknown
+Vacancy(id: 46061080, name: Senior Test Automation Engineer, area: Москва, salary: unknown
+Vacancy(id: 41112752, name: DevOps в MOEX, area: Москва, salary: unknown
+Vacancy(id: 45956332, name: Разработчик Go/PHP (команда Logistics, группа Partners Integration, Delivery Club), area: Москва, salary: unknown
+Vacancy(id: 46029173, name: Team Lead в Delivery Club (Logistics), area: Москва, salary: unknown
+Vacancy(id: 44365275, name: Backend-разработчик, area: Москва, salary: from: 130000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44524791, name: Golang-разработчик (голосовые технологии), area: Москва, salary: unknown
+Vacancy(id: 45295712, name: Разработчик Go, Полигоны доставки, area: Москва, salary: unknown
+Vacancy(id: 44369583, name: Senior DevOps, area: Москва, salary: from: 180000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 44536314, name: System Analyst, area: Москва, salary: unknown
+Vacancy(id: 45317460, name: Консультант по внедрению практик DevOps, area: Москва, salary: unknown
+Vacancy(id: 45999933, name: Программист / Разработчик на C#, area: Москва, salary: unknown
+Vacancy(id: 45997766, name: Программист-разработчик Data engineer, area: Москва, salary: unknown
+Vacancy(id: 46087621, name: ИТ рекрутер, area: Москва, salary: unknown
+Vacancy(id: 46109237, name: Ведущий инженер по администрированию систем ДБО ЮЛ в Банк, area: Москва, salary: unknown
+Vacancy(id: 45968163, name: Java-разработчик, area: Москва, salary: unknown
+Vacancy(id: 45993543, name: Team lead (Юнит PaaS), area: Москва, salary: unknown
+Vacancy(id: 46083541, name: Ведущий системный аналитик, area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46023287, name: Инженер по нагрузочному тестированию, area: Москва, salary: unknown
+Vacancy(id: 44548976, name: Руководитель группы разработки GO, финансовые сервисы, area: Москва, salary: unknown
+Vacancy(id: 42686815, name: Старший разработчик Go, Путь совершения покупки/Видео, area: Москва, salary: unknown
+Vacancy(id: 45236498, name: Data engineer/ ETL developer, area: Москва, salary: unknown
+Vacancy(id: 45967509, name: QA Automation Engineer (Golang), area: Москва, salary: unknown
+Vacancy(id: 43880351, name: DevOps Engineer (Platform Infrastructure), area: Москва, salary: unknown
+Vacancy(id: 45998156, name: Senior QA (Demand), area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45144402, name: Golang Tech Lead, area: Москва, salary: unknown
+Vacancy(id: 42038753, name: Разработчик Go, Проект ItCrowd/ Эксплуатация, area: Москва, salary: unknown
+Vacancy(id: 45918952, name: Senior Backend Developer, area: Москва, salary: unknown
+Vacancy(id: 45991774, name: SRE-инженер (DevPlatform), area: Москва, salary: unknown
+Vacancy(id: 45258476, name: Senior Performance engineer/ Team lead, area: Москва, salary: unknown
+Vacancy(id: 45964308, name: DevOps инженер, area: Москва, salary: unknown
+Vacancy(id: 46064198, name: IT рекрутер в компании мечты :), area: Москва, salary: unknown
+Vacancy(id: 45963455, name: Разработчик Go, Контент и товары / Маркетплейс, area: Москва, salary: unknown
+Vacancy(id: 42608149, name: Middle Golang developer (Москва), area: Москва, salary: from: 130000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 45959981, name: Разработчик Go, Логистика / Сортировка, area: Москва, salary: unknown
+Vacancy(id: 45203429, name: Senior DevOps Engineer, area: Москва, salary: unknown
+Vacancy(id: 45910344, name: Backend разработчик, area: Москва, salary: unknown
+Vacancy(id: 45932507, name: PHP developer (back), area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 38330685, name: Инженер технической поддержки\Администратор Linux, area: Москва, salary: unknown
+Vacancy(id: 44182261, name: Golang developer (Безоперационные продукты), area: Москва, salary: unknown
+Vacancy(id: 44205663, name: Разработчик Go (Trust & Safety), area: Москва, salary: unknown
+Vacancy(id: 45151014, name: Team Lead Backend (Rider App), area: Москва, salary: unknown
+Vacancy(id: 45928629, name: PHP/Go developer, area: Москва, salary: unknown
+Vacancy(id: 45988612, name: Разработчик JavaScript, Аккаунт продавца / Аналитика и инструменты / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 45198314, name: Старший разработчик Go, Платформа/Нагрузочное тестирование, area: Москва, salary: unknown
+Vacancy(id: 45927138, name: Senior Ruby on Rails Developer (BGaming), area: Москва, salary: unknown
+Vacancy(id: 45997836, name: Инженер по работе с большими данными Data engineer, area: Москва, salary: unknown
+Vacancy(id: 42608594, name: Flutter (Dart, Kotlin )/Mobile developer, Москва, area: Москва, salary: from: 100000, to: 150000, currency: RUR, is_gross: false)
+Vacancy(id: 45908617, name: Senior PHP/Go Developer (Platform), area: Москва, salary: unknown
+Vacancy(id: 46025340, name: Technical Leader for CNCF/K8s projects, area: Москва, salary: unknown
+Vacancy(id: 45197416, name: Разработчик Go, Путь совершения покупки/Личный кабинет и избранное, area: Москва, salary: unknown
+Vacancy(id: 45174201, name: Lead/Senior Frontend-разработчик (remote), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45154433, name: Corporate Communications Manager, area: Москва, salary: unknown
+Vacancy(id: 39988635, name: Infrastructure Security Team Lead (Кипр), area: Москва, salary: unknown
+Vacancy(id: 45910325, name: Fullstack разработчик, area: Москва, salary: unknown
+Vacancy(id: 43387888, name: Руководитель группы разработки (GO/Golang), area: Москва, salary: unknown
+Vacancy(id: 45058679, name: Golang программист, area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45904485, name: Разработчик Golang, Финансовые сервисы / Ozon Premium, area: Москва, salary: unknown
+Vacancy(id: 44303550, name: Frontend-разработчик (IIoT), area: Москва, salary: unknown
+Vacancy(id: 43908005, name: PHP+Go-разработчик, area: Москва, salary: unknown
+Vacancy(id: 45935260, name: Node.js Developer, area: Москва, salary: unknown
+Vacancy(id: 45905985, name: Разработчик Golang, Финансовые сервисы / Ozon Bank, area: Москва, salary: unknown
+Vacancy(id: 45619860, name: DevOps инженер, area: Москва, salary: unknown
+Vacancy(id: 44362397, name: Golang разработчик [МТС Cashback], area: Москва, salary: unknown
+Vacancy(id: 45903527, name: DevOps Engineer (Infrastructure), area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45070172, name: React Native разработчик (Remote), area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45907139, name: System Software Engineer [Unix, C/C++, Go], area: Москва, salary: unknown
+Vacancy(id: 45839514, name: Senior DevOps (Azure) Engineer, area: Москва, salary: unknown
+Vacancy(id: 45871533, name: Разработчик Go, Логистика / TMS, area: Москва, salary: unknown
+Vacancy(id: 45151579, name: Тестировщик ПО, area: Москва, salary: unknown
+Vacancy(id: 45841066, name: Frontend-разработчик (Angular), area: Москва, salary: unknown
+Vacancy(id: 45087731, name: Разработчик Go, Путь совершения покупки/ Автотовары, area: Москва, salary: unknown
+Vacancy(id: 45927665, name: AppSec engineer, area: Москва, salary: unknown
+Vacancy(id: 45088009, name: Старший разработчик Go, Геймификация/Путь совершения покупки, area: Москва, salary: unknown
+Vacancy(id: 45856389, name: SRE-инженер Kubernetes, area: Москва, salary: unknown
+Vacancy(id: 45872768, name: Разработчик Go, Инструменты торговой площадки / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 44556922, name: C++ Developer (Software-Defined Storage), area: Москва, salary: unknown
+Vacancy(id: 46027726, name: Golang Developer (Junior), area: Москва, salary: unknown
+Vacancy(id: 45991482, name: Менеджер по подбору персонала (IT), area: Москва, salary: from: 80000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45833439, name: Инженер технической поддержки L3, area: Москва, salary: unknown
+Vacancy(id: 45991513, name: Специалист по подбору персонала (IT), area: Москва, salary: from: 70000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45833710, name: Senior Ruby Developer, area: Москва, salary: from: 150000, to: 180000, currency: RUR, is_gross: false)
+Vacancy(id: 44302823, name: Backend-разработчик Golang/Java (IIoT), area: Москва, salary: unknown
+Vacancy(id: 46639589, name: Golang разработчик, area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46298616, name: Golang Developer, area: Москва, salary: from: 200000, to: 400000, currency: RUR, is_gross: false)
+Vacancy(id: 43784179, name: Senior Golang developer, area: Москва, salary: from: 350000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46528178, name: Golang разработчик, area: Москва, salary: from: 130000, to: 180000, currency: RUR, is_gross: false)
+Vacancy(id: 46490263, name: Программист Golang /Golang senior developer, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 38016148, name: Middle/Senior Golang developer, area: Москва, salary: from: 200000, to: 260000, currency: RUR, is_gross: false)
+Vacancy(id: 46385509, name: Golang Разработчик, area: Москва, salary: from: 150000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46607088, name: GoLang developer, area: Москва, salary: from: 180000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 46392952, name: Senior Golang Developer [remote], area: Москва, salary: from: 4000, to: 5000, currency: USD, is_gross: false)
+Vacancy(id: 46198448, name: Backend-разработчик (GoLang), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46588705, name: Golang developer, area: Москва, salary: from: 180000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46499097, name: Golang Developer backend, Middle/Senior (Remote), area: Москва, salary: from: 2500, to: 4500, currency: USD, is_gross: false)
+Vacancy(id: 45961337, name: Golang разработчик, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46592772, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46477231, name: Golang developer, area: Москва, salary: from: 120000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45970221, name: Golang разработчик, area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43814495, name: Sr Backend developer - Golang (US contract), area: Москва, salary: unknown
+Vacancy(id: 46001885, name: Go Developer, area: Москва, salary: from: 60000, to: 80000, currency: RUR, is_gross: false)
+Vacancy(id: 46339378, name: Senior Golang Developer, area: Москва, salary: from: 220000, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 46638883, name: Senior Golang / Go разработчик, area: Москва, salary: from: 200000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46008009, name: Go (Golang) Backend Developer, area: Москва, salary: from: -1, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 45859788, name: Golang Developer, area: Москва, salary: from: -1, to: 270000, currency: RUR, is_gross: false)
+Vacancy(id: 46602327, name: Middle бэкенд разработчик Golang, area: Москва, salary: from: 120000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46001583, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 44084230, name: Golang Developer, area: Москва, salary: from: 230000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45746278, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46573085, name: Junior Go (Golang) разработчик, area: Москва, salary: unknown
+Vacancy(id: 46020165, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46457933, name: Программист Golang/JS, area: Москва, salary: from: 70000, to: 150000, currency: RUR, is_gross: false)
+Vacancy(id: 46126396, name: Go разработчик / GoLang Developer, area: Москва, salary: from: 150000, to: 250000, currency: RUR, is_gross: true)
+Vacancy(id: 46517869, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 45992207, name: Backend-разработчик (Go, Golang), area: Москва, salary: from: 160000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 41680487, name: Golang Developer, area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46617300, name: Golang разработчик в отдел архитектуры (Remote), area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46453475, name: Go (golang) Back-end Developer, area: Москва, salary: unknown
+Vacancy(id: 43941903, name: Python разработчик (middle) (backend), area: Москва, salary: from: -1, to: 500000, currency: RUR, is_gross: false)
+Vacancy(id: 46630603, name: Go разработчик (Golang), area: Москва, salary: unknown
+Vacancy(id: 43857107, name: Middle Golang developer, area: Москва, salary: unknown
+Vacancy(id: 46571435, name: Golang developer, area: Москва, salary: unknown
+Vacancy(id: 45430655, name: GoLang Senior разработчик, area: Москва, salary: from: 210000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 43303765, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46339281, name: Senior PHP/Go Developer (remote), area: Москва, salary: from: 4000, to: 5000, currency: USD, is_gross: false)
+Vacancy(id: 46222999, name: Back-end Developer (Node/Java/Python), area: Москва, salary: unknown
+Vacancy(id: 46213583, name: Middle / Senior Go developer, area: Москва, salary: from: 200000, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 45430651, name: GoLang Middle разработчик, area: Москва, salary: from: 170000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46065716, name: Golang developer / Go backend разработчик, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 46413908, name: Go Разработчик, area: Москва, salary: from: 170000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 43880247, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46257304, name: Go (golang) Developer, area: Москва, salary: from: -1, to: 150000, currency: RUR, is_gross: false)
+Vacancy(id: 41630061, name: Golang разработчик (backend), area: Москва, salary: unknown
+Vacancy(id: 45889898, name: Golang - разработчик (middle/senior), area: Москва, salary: unknown
+Vacancy(id: 43687421, name: Ведущий разработчик GOlang, area: Москва, salary: from: 150000, to: 250000, currency: RUR, is_gross: true)
+Vacancy(id: 45413430, name: Go pазработчик / Go Developer, area: Москва, salary: from: 70000, to: 140000, currency: RUR, is_gross: false)
+Vacancy(id: 44954672, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46566404, name: Golang developer, area: Москва, salary: unknown
+Vacancy(id: 45798964, name: Senior Golang developer, area: Москва, salary: from: -1, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 44158646, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 43928691, name: Backend разработчик (PHP/Golang), area: Москва, salary: unknown
+Vacancy(id: 46391924, name: Backend Senior Developer, area: Москва, salary: from: 200000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 45618977, name: Golang Tech lead, area: Москва, salary: from: -1, to: 320000, currency: RUR, is_gross: false)
+Vacancy(id: 40256966, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 45959816, name: Разработчик Go (Golang), area: Москва, salary: unknown
+Vacancy(id: 46526613, name: Senior Golang / Go разработчик, area: Москва, salary: from: -1, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 46619104, name: Go разработчик / Golang backend developer, area: Москва, salary: unknown
+Vacancy(id: 46354450, name: Python backend developer, area: Москва, salary: from: 150000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46112316, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46607999, name: Golang Разработчик (Middle/Senior), area: Москва, salary: unknown
+Vacancy(id: 44787376, name: Go Developer, area: Москва, salary: unknown
+Vacancy(id: 46597706, name: Golang Team Lead, area: Москва, salary: unknown
+Vacancy(id: 46537925, name: Middle Go Developer, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46178058, name: Middle Backend Developer (Python), area: Москва, salary: unknown
+Vacancy(id: 46191919, name: Backend developer, area: Москва, salary: unknown
+Vacancy(id: 46513996, name: Python developer, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45986372, name: Backend Developer, area: Москва, salary: unknown
+Vacancy(id: 46494347, name: Разработчик (Golang) / Senior Backend Developer / Software Programmer, area: Москва, salary: unknown
+Vacancy(id: 44733701, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46266410, name: Python разработчик / Backend / Middle, area: Москва, salary: from: 120000, to: 160000, currency: RUR, is_gross: true)
+Vacancy(id: 44568376, name: Backend Developer (Golang), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46410241, name: Middle golang developer, area: Москва, salary: unknown
+Vacancy(id: 43856428, name: Middle/Senior Python Developer, area: Москва, salary: from: 130000, to: 220000, currency: RUR, is_gross: false)
+Vacancy(id: 46300392, name: Golang Developer, area: Москва, salary: from: 3500, to: -1, currency: USD, is_gross: false)
+Vacancy(id: 46178048, name: Senior Backend Developer (Python), area: Москва, salary: unknown
+Vacancy(id: 44196618, name: Golang Team Lead (Core), area: Москва, salary: from: -1, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 44685175, name: Python/Go разработчик, area: Москва, salary: unknown
+Vacancy(id: 45382222, name: Senior golang developer, area: Москва, salary: unknown
+Vacancy(id: 45717813, name: Разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 43289538, name: Golang Developer (PaaS), area: Москва, salary: unknown
+Vacancy(id: 43891780, name: Senior Backend Developer Go, area: Москва, salary: from: 4000, to: 5000, currency: USD, is_gross: false)
+Vacancy(id: 45893175, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 44553951, name: Junior-разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 45274564, name: Junior-Developer Golang, area: Москва, salary: unknown
+Vacancy(id: 45834562, name: Back-end разработчик на Golang, area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: true)
+Vacancy(id: 43304467, name: Golang Team Lead (PaaS), area: Москва, salary: unknown
+Vacancy(id: 46349868, name: Golang-developer, area: Москва, salary: unknown
+Vacancy(id: 46345414, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46353986, name: Golang Developer, area: Москва, salary: from: 140000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 46353695, name: Golang разработчик (Middle/Teamlead), area: Москва, salary: from: -1, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 44201503, name: Golang Expert/Golang developer, area: Москва, salary: unknown
+Vacancy(id: 43877559, name: Backend-разработчик (Golang), area: Москва, salary: unknown
+Vacancy(id: 46382704, name: Middle Backend Developer Go, area: Москва, salary: from: 3000, to: 4000, currency: USD, is_gross: true)
+Vacancy(id: 43432370, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46445639, name: Golang Team Lead, area: Москва, salary: unknown
+Vacancy(id: 46345934, name: Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46328363, name: Golang программист, area: Москва, salary: unknown
+Vacancy(id: 45699271, name: Senior Golang Developer for Imunify AntiSpam [Remote], area: Москва, salary: unknown
+Vacancy(id: 46387655, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 46490711, name: Backend developer (Kotlin), area: Москва, salary: unknown
+Vacancy(id: 46350993, name: Senior Golang developer, area: Москва, salary: unknown
+Vacancy(id: 46306902, name: Senior/Lead Golang Developer, area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45564170, name: Golang developer, area: Москва, salary: unknown
+Vacancy(id: 45842425, name: Go/Python разработчик (Middle), area: Москва, salary: unknown
+Vacancy(id: 46272856, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 44988736, name: Senior Golang Developer (Air), area: Москва, salary: unknown
+Vacancy(id: 46238222, name: Golang Developer Go / Разработчик Golang / Программист Golang (от middle), area: Москва, salary: from: 100000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46259825, name: Golang/Python разработчик, area: Москва, salary: unknown
+Vacancy(id: 46306130, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46200721, name: Ведущий разработчик Golang (remote), area: Москва, salary: from: 230000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 43857609, name: Middle Golang Developer (WBCloud), area: Москва, salary: unknown
+Vacancy(id: 46277849, name: Software Engineer (Golang) / Backend-разработчик, area: Москва, salary: from: 140000, to: 270000, currency: RUR, is_gross: false)
+Vacancy(id: 46225736, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 43131109, name: Backend Golang Developer (SIEM KUMA), area: Москва, salary: unknown
+Vacancy(id: 46274609, name: Backend разработчик eSports (Golang), area: Москва, salary: unknown
+Vacancy(id: 43001394, name: Middle/Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 42267653, name: Middle golang developer, area: Москва, salary: unknown
+Vacancy(id: 46151290, name: Golang developer (Wink), area: Москва, salary: unknown
+Vacancy(id: 45493006, name: Middle Golang Developer (команда платежного шлюза), area: Москва, salary: unknown
+Vacancy(id: 44173474, name: Golang Backend Developer / Backend Developer, area: Москва, salary: unknown
+Vacancy(id: 46058711, name: Golang разработчик, area: Москва, salary: from: 180000, to: 270000, currency: RUR, is_gross: false)
+Vacancy(id: 43822166, name: Golang-разработчик/Senior Golang-разработчик, area: Москва, salary: unknown
+Vacancy(id: 46098036, name: Golang developer, area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 45589801, name: Middle Golang Developer, area: Москва, salary: from: 100000, to: 180000, currency: RUR, is_gross: false)
+Vacancy(id: 44977933, name: Разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 46100974, name: Golang developer, area: Москва, salary: unknown
+Vacancy(id: 45213750, name: Golang developer, area: Москва, salary: from: -1, to: 450000, currency: RUR, is_gross: false)
+Vacancy(id: 45635640, name: Go/Golang Backend-разработчик, area: Москва, salary: from: 150000, to: 240000, currency: RUR, is_gross: false)
+Vacancy(id: 45492680, name: Golang senior-developer (команда платежного шлюза), area: Москва, salary: unknown
+Vacancy(id: 46211409, name: Golang-разработчик, area: Москва, salary: unknown
+Vacancy(id: 44035127, name: Golang developer, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43427932, name: Golang/ Go-разработчик, area: Москва, salary: unknown
+Vacancy(id: 45965099, name: Senior Golang разработчик, area: Москва, salary: from: -1, to: 320000, currency: RUR, is_gross: false)
+Vacancy(id: 46175047, name: Backend developer Go, area: Москва, salary: from: 130000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 44550001, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46087604, name: Go developer, area: Москва, salary: unknown
+Vacancy(id: 46041578, name: Backend Developer (Golang), area: Москва, salary: unknown
+Vacancy(id: 38467275, name: Golang - разработчик, area: Москва, salary: unknown
+Vacancy(id: 46093945, name: Golang-разработчик, area: Москва, salary: unknown
+Vacancy(id: 45213531, name: Golang developer / Lead, area: Москва, salary: from: -1, to: 400000, currency: RUR, is_gross: false)
+Vacancy(id: 45872575, name: Middle Golang Developer, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45964961, name: Golang разработчик, area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46008185, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46276140, name: Backend разработчик (golang), area: Москва, salary: unknown
+Vacancy(id: 45156413, name: Golang разработчик (Remote), area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44535853, name: Senior Backend developer (Go) (remote), area: Москва, salary: unknown
+Vacancy(id: 45616929, name: Middle/Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 45960190, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 45906877, name: Middle/senior Golang developer, area: Москва, salary: unknown
+Vacancy(id: 46061324, name: Go Golang Разработчик, area: Москва, salary: from: 60000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45929663, name: Senior Golang developer, area: Москва, salary: unknown
+Vacancy(id: 44455859, name: Разработчик ПО (Golang), area: Москва, salary: unknown
+Vacancy(id: 45868485, name: Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 45940072, name: Backend разработчик go (golang), area: Москва, salary: from: 150000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 41727246, name: Разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 46597716, name: Golang Developer (Demand), area: Москва, salary: unknown
+Vacancy(id: 46479824, name: GoLand разработчик (Middle/Senior), area: Москва, salary: from: 150000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46351042, name: Python Developer, area: Москва, salary: from: 2000, to: -1, currency: EUR, is_gross: false)
+Vacancy(id: 46607888, name: Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 42726367, name: Разработчик Golang (транспортный процессинг), area: Москва, salary: unknown
+Vacancy(id: 46636053, name: Golang разработчик (СберМитап), area: Москва, salary: unknown
+Vacancy(id: 44686561, name: Python/Go Developer (Central Services), area: Москва, salary: unknown
+Vacancy(id: 46392606, name: Senior/middle Ruby on rails Developer в продуктовую команду, area: Москва, salary: from: -1, to: 230000, currency: RUR, is_gross: false)
+Vacancy(id: 46532078, name: Fullstack программист (golang/reactjs), area: Москва, salary: from: -1, to: 200000, currency: RUR, is_gross: true)
+Vacancy(id: 46532185, name: Разработчик GO, area: Москва, salary: unknown
+Vacancy(id: 46559066, name: Middle Golang Developer (сервис обработки заказов), area: Москва, salary: unknown
+Vacancy(id: 42397159, name: Middle/Senior C++ Developer, area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46534946, name: Golang-разработчик (Привлечение), area: Москва, salary: unknown
+Vacancy(id: 41688410, name: Pазработчик Backend Go (Мобильное приложение), area: Москва, salary: unknown
+Vacancy(id: 46619182, name: Fullstack разработчик / Fullstack developer (Go/React), area: Москва, salary: unknown
+Vacancy(id: 46574276, name: Разработчик C++ в команду видео-инфраструктуры (backend), area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44154541, name: Full Stack Developer (Go/Vue), area: Москва, salary: unknown
+Vacancy(id: 46517860, name: Lead/Senior Golang/NoSQL (в Анапу), area: Москва, salary: from: 200000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 46607377, name: Разработчик Golang (Premium Solutions), area: Москва, salary: unknown
+Vacancy(id: 45189538, name: Программист Golang Senior, Middle+, area: Москва, salary: unknown
+Vacancy(id: 46130466, name: Java/Kotlin разработчик (Senior), area: Москва, salary: from: 260000, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 46428205, name: Python разработчик (middle / middle+) в международную компанию (удаленно), area: Москва, salary: from: 150000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 45808878, name: Middle/Senior Python Developer, area: Москва, salary: unknown
+Vacancy(id: 46595660, name: Python/Go developer, area: Москва, salary: unknown
+Vacancy(id: 46020299, name: Senior Go-разработчик на международный проект, area: Москва, salary: unknown
+Vacancy(id: 46099335, name: Разработчик Go /TeamLead, area: Москва, salary: unknown
+Vacancy(id: 44644094, name: Junior/Middle Golang-разработчик (Поисковые роботы), area: Москва, salary: unknown
+Vacancy(id: 44586680, name: Разработчик бекенда (Go), area: Москва, salary: unknown
+Vacancy(id: 45992177, name: Senior NodeJs Developer, area: Москва, salary: from: 3000, to: 5600, currency: USD, is_gross: true)
+Vacancy(id: 45386273, name: Младший Golang разработчик, area: Москва, salary: from: 50000, to: 70000, currency: RUR, is_gross: false)
+Vacancy(id: 46247613, name: Программист Backend, area: Москва, salary: unknown
+Vacancy(id: 46413733, name: Senior Blockchain Developer / Ведущий блокчейн разработчик, area: Москва, salary: from: 400000, to: 700000, currency: RUR, is_gross: true)
+Vacancy(id: 46590016, name: Главный разработчик / Team Lead Golang, area: Москва, salary: unknown
+Vacancy(id: 41101791, name: PHP Developer, area: Москва, salary: from: 150000, to: 220000, currency: RUR, is_gross: false)
+Vacancy(id: 46629311, name: Go/PHP developer, area: Москва, salary: unknown
+Vacancy(id: 39648376, name: Backend Senior Python Developer, area: Москва, salary: unknown
+Vacancy(id: 46428148, name: Junior Python разработчик ,удаленно, area: Москва, salary: from: 60000, to: 80000, currency: RUR, is_gross: false)
+Vacancy(id: 45851567, name: Middle Python разработчик, area: Москва, salary: unknown
+Vacancy(id: 43856261, name: Senior Node.js Developer, area: Москва, salary: from: 220000, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 46607579, name: Lead Software Engineer/ Senior Developer (Go/Ruby), area: Москва, salary: from: -1, to: 360000, currency: RUR, is_gross: false)
+Vacancy(id: 46487211, name: Senior React Developer, area: Москва, salary: unknown
+Vacancy(id: 45768570, name: Разработчик Go (Recommendations), area: Москва, salary: unknown
+Vacancy(id: 46486554, name: PHP developer (Remote), area: Москва, salary: from: 3000, to: -1, currency: USD, is_gross: false)
+Vacancy(id: 43797127, name: Go-разработчик, area: Москва, salary: unknown
+Vacancy(id: 41263186, name: Senior Python developer, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46631801, name: Python Developer (Partners), area: Москва, salary: unknown
+Vacancy(id: 45643451, name: Team Lead Go, area: Москва, salary: from: 270000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43618670, name: Go-разработчик (Linux), area: Москва, salary: from: 160000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44669716, name: Разработчик С/С++/Python, area: Москва, salary: unknown
+Vacancy(id: 46479664, name: Senior DevOps Engineer, area: Москва, salary: unknown
+Vacancy(id: 46568894, name: Старший разработчик Go, Ozon.Travel, area: Москва, salary: unknown
+Vacancy(id: 43522324, name: Разработчик облачного хранилища (Go), area: Москва, salary: unknown
+Vacancy(id: 45956207, name: Php разработчик в Admin Platform, area: Москва, salary: unknown
+Vacancy(id: 45888208, name: Back-end (PHP) программист, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46258803, name: Разработчик Go, Ограничения доставки, area: Москва, salary: unknown
+Vacancy(id: 46425761, name: Разработчик GO (Premium Solutions), area: Москва, salary: unknown
+Vacancy(id: 37583293, name: Python developer, area: Москва, salary: unknown
+Vacancy(id: 45286374, name: Руководитель направления Python/GO, area: Москва, salary: unknown
+Vacancy(id: 46573775, name: Full stack developer, area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45144877, name: Senior Golang Developer (Gardener project), area: Москва, salary: unknown
+Vacancy(id: 46528130, name: Senior PHP Developer (Architecture Team), area: Москва, salary: from: 230000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46519431, name: Senior DevOps Engineer - AWS, area: Москва, salary: from: 6000, to: 8000, currency: USD, is_gross: true)
+Vacancy(id: 46549297, name: DevOps engineer, area: Москва, salary: unknown
+Vacancy(id: 46585256, name: Senior Python/Golang Engineer [Logistics team], area: Москва, salary: unknown
+Vacancy(id: 46622138, name: Senior PHP Developer (Billing), area: Москва, salary: unknown
+Vacancy(id: 46373909, name: Go разработчик ( Middle+/Senior) Messaging Platform / SberDevices, area: Москва, salary: unknown
+Vacancy(id: 46632959, name: Руководитель разработки / тимлид (GoLang), area: Москва, salary: from: 350000, to: 500000, currency: RUR, is_gross: false)
+Vacancy(id: 46065308, name: Senior Backend Developer (Laravel + Go/C#), area: Москва, salary: from: 220000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 46480518, name: Senior developer / teamlead (frontend/mobile), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46070546, name: Site Reliability Engineer (Go, Linux, Prometheus, Grafana)., area: Москва, salary: unknown
+Vacancy(id: 46614158, name: PHP-разработчик удаленно, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45835677, name: Senior Java Developer, area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43449451, name: Ведущий backend-разработчик (DDoS Protection), area: Москва, salary: unknown
+Vacancy(id: 46605672, name: Программист-разработчик, area: Москва, salary: from: 100000, to: 150000, currency: RUR, is_gross: true)
+Vacancy(id: 46060854, name: DevOps Engineer, area: Москва, salary: unknown
+Vacancy(id: 44847663, name: Go разработчик / Golang Developer в SberDevices (Messaging Platform), area: Москва, salary: unknown
+Vacancy(id: 46309297, name: Senior iOS Engineer (Swift), area: Москва, salary: from: 6000, to: -1, currency: USD, is_gross: false)
+Vacancy(id: 45300311, name: Backend-разработчик C#, area: Москва, salary: unknown
+Vacancy(id: 46314392, name: Senior Software Backend Engineer in Deutschland, area: Москва, salary: from: 5000, to: 7000, currency: EUR, is_gross: true)
+Vacancy(id: 44574131, name: Backend/ Infrastructure - Разработчик (Облако), area: Москва, salary: unknown
+Vacancy(id: 46531654, name: Senior PHP Developer // Relocation, area: Москва, salary: from: 4000, to: -1, currency: EUR, is_gross: false)
+Vacancy(id: 43281404, name: Ruby программист, area: Москва, salary: unknown
+Vacancy(id: 45342525, name: Разработчик Go, Кастомные интеграции и селлер апи, area: Москва, salary: unknown
+Vacancy(id: 46592752, name: РНР разработчик, area: Москва, salary: unknown
+Vacancy(id: 45884963, name: DevOps Engineer PSP (удаленно), area: Москва, salary: unknown
+Vacancy(id: 39800334, name: Backend-разработчик Go, area: Москва, salary: unknown
+Vacancy(id: 44706070, name: Senior Software Engineer (Golang), area: Москва, salary: unknown
+Vacancy(id: 44125885, name: Software Engineer (Golang), area: Москва, salary: unknown
+Vacancy(id: 46508613, name: Middle Go developer, area: Москва, salary: unknown
+Vacancy(id: 46513655, name: Backend разработчик PHP/Go, area: Москва, salary: unknown
+Vacancy(id: 46065401, name: Backend Developer (Laravel), area: Москва, salary: unknown
+Vacancy(id: 46178018, name: Middle Data Engineer, area: Москва, salary: unknown
+Vacancy(id: 46531700, name: Senior PHP Developer // Remote, area: Москва, salary: from: 3500, to: -1, currency: EUR, is_gross: false)
+Vacancy(id: 42556899, name: Senior Software Engineer (Golang), area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46562380, name: Стажер-разработчик Golang (направление разработки банковских продуктов, Ozon Fintech), area: Москва, salary: unknown
+Vacancy(id: 45179802, name: Go-разработчик виртуальной инфраструктуры, area: Москва, salary: unknown
+Vacancy(id: 45369350, name: Разработчик PHP, area: Москва, salary: unknown
+Vacancy(id: 45988368, name: DevOPS Engineer, area: Москва, salary: unknown
+Vacancy(id: 46558467, name: Ведущий PHP разработчик, area: Москва, salary: from: 200000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46017228, name: Frontend-разработчик (React), area: Москва, salary: from: 110000, to: 130000, currency: RUR, is_gross: false)
+Vacancy(id: 46601590, name: DevOps engineer, area: Москва, salary: unknown
+Vacancy(id: 43880320, name: Младший разработчик бекенда (Go), area: Москва, salary: unknown
+Vacancy(id: 45723367, name: Разработчик Ruby (Ruby on Rails), area: Москва, salary: from: 130000, to: 170000, currency: RUR, is_gross: false)
+Vacancy(id: 45817672, name: С++ разработчик (команда баннерной системы, MyTarget), area: Москва, salary: unknown
+Vacancy(id: 46535223, name: DevOps-инженер (AdTech), area: Москва, salary: unknown
+Vacancy(id: 46566715, name: Blockchain Crosschain Developer (LACHAIN ), area: Москва, salary: from: 6000, to: 10000, currency: USD, is_gross: true)
+Vacancy(id: 43093831, name: Senior Ruby on Rails Developer, area: Москва, salary: unknown
+Vacancy(id: 46005908, name: DevOps Инженер, area: Москва, salary: unknown
+Vacancy(id: 36936316, name: PHP-программист, area: Москва, salary: unknown
+Vacancy(id: 46568595, name: DevOps / Release Engineer, area: Москва, salary: unknown
+Vacancy(id: 45788828, name: Golang разработчик (проект Ростелеком Ключ), area: Москва, salary: unknown
+Vacancy(id: 46054344, name: PHP-разработчик, area: Москва, salary: unknown
+Vacancy(id: 45904776, name: Go-разработчик (технический департамент), area: Москва, salary: unknown
+Vacancy(id: 46624937, name: Стажер-разработчик Golang (Группа "Оформления заказов"), area: Москва, salary: unknown
+Vacancy(id: 46486826, name: Teamlead/Руководитель группы разработки, area: Москва, salary: unknown
+Vacancy(id: 46545568, name: Devops-инженер по доставке трафика, area: Москва, salary: unknown
+Vacancy(id: 45232165, name: Разработчик поискового ядра C++, area: Москва, salary: unknown
+Vacancy(id: 46528249, name: Ведущий Разработчик Python офлайн интеграции, area: Москва, salary: unknown
+Vacancy(id: 45987173, name: Senior QA Automation (Remote), area: Москва, salary: from: 3000, to: -1, currency: USD, is_gross: false)
+Vacancy(id: 46544072, name: Разработчик Go, Клиентские сервисы / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 45087786, name: Разработчик Go, Путь совершения покупки/Хайлайты, area: Москва, salary: unknown
+Vacancy(id: 44515723, name: Разработчик BI, area: Москва, salary: unknown
+Vacancy(id: 41703678, name: Specialist DevOps, area: Москва, salary: from: -1, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 46519939, name: Middle/Senior Java Developer (Smart Home), area: Москва, salary: unknown
+Vacancy(id: 46624976, name: Старший системный администратор Linux/DevOps, area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 44360630, name: DevOps инженер, area: Москва, salary: unknown
+Vacancy(id: 46592978, name: Middle QA Automation Engineer, area: Москва, salary: from: 150000, to: 170000, currency: RUR, is_gross: false)
+Vacancy(id: 45835678, name: Architect / Tech Lead (Java), area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44973336, name: Senior Frontend developer (Vue.js), area: Москва, salary: from: 220000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45088206, name: Разработчик Go, Путь совершения покупки/Платформа коммуникаций, area: Москва, salary: unknown
+Vacancy(id: 46632585, name: DevOps / SRE инженер, area: Москва, salary: unknown
+Vacancy(id: 45969432, name: SRE инженер (Infrastructure), area: Москва, salary: unknown
+Vacancy(id: 46605469, name: DevOps инженер (Big Data), area: Москва, salary: unknown
+Vacancy(id: 46552498, name: Стажер-разработчик Golang / группа "Кабинет бренда, контроль качества", area: Москва, salary: unknown
+Vacancy(id: 46277606, name: Тимлид Go/Javascript, area: Москва, salary: from: -1, to: 400000, currency: RUR, is_gross: false)
+Vacancy(id: 45080822, name: QA engineer, area: Москва, salary: unknown
+Vacancy(id: 46222803, name: Senior JAVA developer (Cloud-Native Client Profile), area: Москва, salary: unknown
+Vacancy(id: 46001389, name: Разработчик‎ Ruby on Rails, area: Москва, salary: unknown
+Vacancy(id: 45768556, name: Разработчик в команду качества поиска, area: Москва, salary: unknown
+Vacancy(id: 40931777, name: DevOps, area: Москва, salary: unknown
+Vacancy(id: 41771594, name: Senior DevOps Engineer (AWS), area: Москва, salary: unknown
+Vacancy(id: 46563616, name: Go-разработчик (команда Рекламных технологий), area: Москва, salary: unknown
+Vacancy(id: 38520434, name: Senior DevOps engineer, area: Москва, salary: unknown
+Vacancy(id: 39628627, name: DevOps engineer на проект Digital Credit, area: Москва, salary: unknown
+Vacancy(id: 44941465, name: Go-разработчик (технический департамент), area: Москва, salary: unknown
+Vacancy(id: 46585998, name: Frontend разработчик (React / Redux), area: Москва, salary: unknown
+Vacancy(id: 46467121, name: CTO/Технический руководитель (Lead), area: Москва, salary: from: 400000, to: 500000, currency: RUR, is_gross: true)
+Vacancy(id: 43909806, name: Разработчик (язык С), area: Москва, salary: unknown
+Vacancy(id: 45396149, name: Data Engineer, area: Москва, salary: unknown
+Vacancy(id: 38296746, name: Fullstack Разработчик, area: Москва, salary: unknown
+Vacancy(id: 45884171, name: Data Engineer в команду Качества поиска, area: Москва, salary: unknown
+Vacancy(id: 46235657, name: Frontend Developer (Поисковая выдача), area: Москва, salary: unknown
+Vacancy(id: 46633986, name: QA Engineer / Тестировщик, area: Москва, salary: from: 100000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46508641, name: Senior backend engineer, area: Москва, salary: unknown
+Vacancy(id: 44149993, name: DevOps Engineer, area: Москва, salary: unknown
+Vacancy(id: 44126569, name: Software Engineer (DDoS Protection), area: Москва, salary: unknown
+Vacancy(id: 46230187, name: Cистемный администратор Linux (команда R&D), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43907974, name: SRE/Linux администратор, area: Москва, salary: unknown
+Vacancy(id: 45574515, name: Специалист по информационной безопастности (AppSec, DevSecOps Senior), area: Москва, salary: unknown
+Vacancy(id: 46178789, name: QA Automation Engineer/Тестировщик - Автоматизатор ПО, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46309533, name: QA Engineer, area: Москва, salary: unknown
+Vacancy(id: 46633774, name: Специалист по тестированию (IC++), area: Москва, salary: unknown
+Vacancy(id: 45768525, name: QA automation engineer (Communications), area: Москва, salary: unknown
+Vacancy(id: 46506043, name: Middle PHP-разработчик, area: Москва, salary: unknown
+Vacancy(id: 43169863, name: DevOps инженер, area: Москва, salary: unknown
+Vacancy(id: 41747649, name: Data Architect (Архитектор данных), area: Москва, salary: unknown
+Vacancy(id: 45098076, name: Разработчик Go, Тарификатор маркетплейса / Доставка, area: Москва, salary: unknown
+Vacancy(id: 46607419, name: Site Reliability Engineer, area: Москва, salary: from: -1, to: 360000, currency: RUR, is_gross: false)
+Vacancy(id: 45973582, name: DevOps Lead Engineer, area: Москва, salary: unknown
+Vacancy(id: 44481907, name: ML Engineer / Data Scientist, area: Москва, salary: unknown
+Vacancy(id: 46573565, name: Сетевой инженер – тестировщик оборудования со знанием Linux, area: Москва, salary: from: 50000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46257768, name: Руководитель группы Go, Ограничения доставки, area: Москва, salary: unknown
+Vacancy(id: 45077807, name: Разработчик Go, Путь совершения покупки/Пользовательские коммуникации, area: Москва, salary: unknown
+Vacancy(id: 45506755, name: Старший системный администратор, area: Москва, salary: unknown
+Vacancy(id: 46628110, name: Security Operation Center (SOC) Engineer, area: Москва, salary: unknown
+Vacancy(id: 46558622, name: QA Engineer, area: Москва, salary: unknown
+Vacancy(id: 46060863, name: Руководитель разработки в новую бизнес вертикаль, area: Москва, salary: unknown
+Vacancy(id: 45866967, name: Разработчик Go (Calltracking), area: Москва, salary: unknown
+Vacancy(id: 43287034, name: Scrum Master, area: Москва, salary: unknown
+Vacancy(id: 46512601, name: Инженер по нагрузочному тестированию (Junior), area: Москва, salary: unknown
+Vacancy(id: 45252447, name: Platform Engineer, area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46536317, name: Системный архитектор, area: Москва, salary: from: -1, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 46292919, name: IT рекрутер, area: Москва, salary: unknown
+Vacancy(id: 45713991, name: Middle QA Engineer, area: Москва, salary: from: 130000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46566697, name: Разработчик Go (Базовые сервисы и инструменты, Инструменты анализа производительности), area: Москва, salary: unknown
+Vacancy(id: 45869742, name: Релиз-инженер, area: Москва, salary: unknown
+Vacancy(id: 45873830, name: Разработчик Go (Платформа Backoffice as a Service), area: Москва, salary: unknown
+Vacancy(id: 45086084, name: Senior Backend Разработчик в Мессенджер, area: Москва, salary: unknown
+Vacancy(id: 46520989, name: Старший системный администратор, area: Москва, salary: unknown
+Vacancy(id: 46521794, name: Специалист по анализу защищённости / пентестер в Инфосекьюрити, area: Москва, salary: unknown
+Vacancy(id: 46533722, name: Специалист по телекоммуникациям/Инфраструктура, area: Москва, salary: unknown
+Vacancy(id: 43431253, name: Teamlead (Messenger), area: Москва, salary: unknown
+Vacancy(id: 46511563, name: Архитектор программного обеспечения — Департамент информационных технологий, area: Москва, salary: unknown
+Vacancy(id: 45526946, name: Системный аналитик, area: Москва, salary: unknown
+Vacancy(id: 45576141, name: Стажёр-разработчик Go, Антифрод системы / Торговая площадка, area: Москва, salary: unknown
+Vacancy(id: 43999045, name: Методист-разработчик школы Golang, area: Москва, salary: unknown
+Vacancy(id: 45780614, name: Teamlead (Back Office Core), area: Москва, salary: unknown
+Vacancy(id: 45866707, name: QA automation engineer (IN-APP-CALLS), area: Москва, salary: unknown
+Vacancy(id: 46489857, name: Специалист по работе с клиентами/администратор, area: Москва, salary: unknown
+Vacancy(id: 40992175, name: Разработчик ETL, Обработка и хранение данных, area: Москва, salary: unknown
+Vacancy(id: 45706488, name: Разработчик Go, Путь совершения покупки/Платформа чатов, area: Москва, salary: unknown
+Vacancy(id: 46487502, name: Ведущий разработчик (Golang), area: Москва, salary: unknown
+Vacancy(id: 46483020, name: Go Developer, area: Москва, salary: unknown
+Vacancy(id: 46490439, name: GO lang, MQTT Программист (дистанционно), area: Москва, salary: from: 1500, to: 3000, currency: USD, is_gross: false)
+Vacancy(id: 46489447, name: Senior PHP разработчик (Backend), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45664181, name: Go-разработчик (Пульс), area: Москва, salary: unknown
+Vacancy(id: 46487593, name: Fullstack Developer (Golang / javascript), area: Москва, salary: unknown
+Vacancy(id: 45691541, name: Senior PHP/Go Developer (Marketplace/Dispatch), area: Москва, salary: unknown
+Vacancy(id: 44838758, name: Старший разработчик Go, Платформа/Core, area: Москва, salary: unknown
+Vacancy(id: 46489490, name: Middle PHP разработчик (Backend), area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 40942389, name: Python программист, area: Москва, salary: unknown
+Vacancy(id: 46488565, name: Ведущий Backend-разработчик (Golang) — Департамент информационных технологий, area: Москва, salary: unknown
+Vacancy(id: 44083653, name: Разработчик Go, Внутренние сервисы, area: Москва, salary: unknown
+Vacancy(id: 46475816, name: Backend-разработчик (Golang) — Департамент информационных технологий, area: Москва, salary: unknown
+Vacancy(id: 46489477, name: Team Lead Go/ Руководитель группы разработки, area: Москва, salary: unknown
+Vacancy(id: 46490326, name: DevOps (Пульс), area: Москва, salary: unknown
+Vacancy(id: 46478585, name: Go-разработчик (Мультимаркет), area: Москва, salary: unknown
+Vacancy(id: 45689268, name: Senior PHP Developer (Marketplace/Acquiring), area: Москва, salary: unknown
+Vacancy(id: 45922550, name: Java-разработчик Platform V Functions, area: Москва, salary: unknown
+Vacancy(id: 44265030, name: Разработчик ETL, area: Москва, salary: unknown
+Vacancy(id: 45372688, name: Разработчик Go, Базовые сервисы и инструменты, Маркетплейс., area: Москва, salary: unknown
+Vacancy(id: 46327139, name: Стажер-разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 44807006, name: Разработчик Go/Python (Security), area: Москва, salary: unknown
+Vacancy(id: 46453479, name: Middle/Senior Golang Developer (удаленно), area: Москва, salary: unknown
+Vacancy(id: 46455327, name: Golang developer, area: Москва, salary: unknown
+Vacancy(id: 46444199, name: Разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 46447693, name: Go-разработчик (Ментор), area: Москва, salary: unknown
+Vacancy(id: 46445708, name: Python/Go developer, area: Москва, salary: unknown
+Vacancy(id: 45371470, name: Golang Developer (Threat Intelligence Portal), area: Москва, salary: unknown
+Vacancy(id: 46475975, name: Senior System Software Engineer, area: Москва, salary: unknown
+Vacancy(id: 45681986, name: PHP developer, area: Москва, salary: unknown
+Vacancy(id: 46478328, name: Разработчик MS SQL, area: Москва, salary: unknown
+Vacancy(id: 46452381, name: Team Lead (PHP/Go), area: Москва, salary: unknown
+Vacancy(id: 46459885, name: Senior JavaScript Developer, area: Москва, salary: from: 5000, to: 7000, currency: USD, is_gross: false)
+Vacancy(id: 45379469, name: Support Engineer, area: Москва, salary: unknown
+Vacancy(id: 45743212, name: Руководитель группы Go, Маркетплейс / Личный кабинет продавца, area: Москва, salary: unknown
+Vacancy(id: 46461171, name: DQ-разработчик, area: Москва, salary: unknown
+Vacancy(id: 46485300, name: Senior IT Recruiter, area: Москва, salary: unknown
+Vacancy(id: 46458095, name: Senior JavaScript Developer, area: Москва, salary: from: 5000, to: 7000, currency: USD, is_gross: false)
+Vacancy(id: 46450789, name: Open Source Cloud Senior Developer (CNCF), area: Москва, salary: unknown
+Vacancy(id: 46460911, name: DevOps инженер-специалист по CI/CD, area: Москва, salary: unknown
+Vacancy(id: 39140898, name: Java/Go developer, area: Москва, salary: unknown
+Vacancy(id: 46443749, name: Разработчик Go (Базовые сервисы и инструменты), area: Москва, salary: unknown
+Vacancy(id: 46452600, name: DevOps, area: Москва, salary: unknown
+Vacancy(id: 45630415, name: Старший разработчик Go, Путь совершения покупки/CDP и DMP, area: Москва, salary: unknown
+Vacancy(id: 46433378, name: Разработчик Go, Антифрод / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 46451350, name: DevOps (на Кипр), area: Москва, salary: unknown
+Vacancy(id: 45855947, name: PHP/Go Developer (B2B), area: Москва, salary: unknown
+Vacancy(id: 45523235, name: Разработчик Go (Classified), area: Москва, salary: unknown
+Vacancy(id: 46417702, name: Middle/Senior Backend Developer (PHP), area: Москва, salary: from: 150000, to: 220000, currency: RUR, is_gross: false)
+Vacancy(id: 46459520, name: QA engineer/Тестировщик Web-сервисов, area: Москва, salary: unknown
+Vacancy(id: 43438066, name: Разработчик Go (Logistics), area: Москва, salary: unknown
+Vacancy(id: 46449519, name: QA Engineer, area: Москва, salary: unknown
+Vacancy(id: 46459834, name: Architect, area: Москва, salary: unknown
+Vacancy(id: 42450240, name: Java Team Lead (Content), area: Москва, salary: from: -1, to: 350000, currency: RUR, is_gross: false)
+Vacancy(id: 46458787, name: Системный архитектор, area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45366752, name: Data engineer / инженер данных, area: Москва, salary: unknown
+Vacancy(id: 46443676, name: Инженер по автотестированию (Базовые сервисы и инструменты), area: Москва, salary: unknown
+Vacancy(id: 46429133, name: Frontend React разработчик (Web/Mobile), area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 43961654, name: Python разработчик (middle/senior), area: Москва, salary: unknown
+Vacancy(id: 46414511, name: Junior PHP Developer (backend)/Младший PHP разработчик, area: Москва, salary: unknown
+Vacancy(id: 46362087, name: Python/Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 45309802, name: Python-разработчик, area: Москва, salary: from: 200000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 44940340, name: Frontend-разработчик, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46417691, name: Middle/Senior Frontend Developer (React), area: Москва, salary: from: 140, to: 220000, currency: RUR, is_gross: false)
+Vacancy(id: 46409226, name: Senior Frontend (ReactJS), area: Москва, salary: from: 180000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 44911243, name: Senior Go Developer, area: Москва, salary: unknown
+Vacancy(id: 46379364, name: PHP-разработчик (MY.GAMES), area: Москва, salary: unknown
+Vacancy(id: 46410783, name: Разработчик Golang (в компанию резидент "Сколково"), area: Москва, salary: from: -1, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46382685, name: Team Lead (PHP/Go), area: Москва, salary: unknown
+Vacancy(id: 46391520, name: Junior Python Developer, area: Москва, salary: unknown
+Vacancy(id: 46391905, name: Python-программист (рекомендательные системы, сервисы на базе ML), area: Москва, salary: unknown
+Vacancy(id: 46388915, name: PHP-разработчик, area: Москва, salary: from: 120000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46389325, name: Java Developer, area: Москва, salary: unknown
+Vacancy(id: 40943374, name: Golang-разработчик, area: Москва, salary: unknown
+Vacancy(id: 46345763, name: Ruby on Rails Backend Developer, area: Москва, salary: from: 120000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46389369, name: Team Lead (Java), area: Москва, salary: unknown
+Vacancy(id: 46429124, name: Специалист по кибербезопасности, area: Москва, salary: unknown
+Vacancy(id: 46027206, name: Разработчик Python, area: Москва, salary: unknown
+Vacancy(id: 46384730, name: Devops в службу сетевой разработки, area: Москва, salary: unknown
+Vacancy(id: 45607869, name: Руководитель проектов по разработке серверного ПО, area: Москва, salary: unknown
+Vacancy(id: 41128144, name: Go developer, area: Москва, salary: unknown
+Vacancy(id: 46338588, name: Pазработчик Backend Go (Авито Работа), area: Москва, salary: unknown
+Vacancy(id: 45307083, name: Junior/Middle Golang-разработчик (Поисковые роботы), area: Москва, salary: unknown
+Vacancy(id: 40843636, name: Golang developer (MTS Cloud), area: Москва, salary: unknown
+Vacancy(id: 46342659, name: Senior Go разработчик, area: Москва, salary: unknown
+Vacancy(id: 44084522, name: Senior PHP/Go Developer (Driver App), area: Москва, salary: unknown
+Vacancy(id: 45622328, name: Senior Python Developer, area: Москва, salary: unknown
+Vacancy(id: 46421700, name: IT Recruiter, area: Москва, salary: unknown
+Vacancy(id: 46374703, name: Разработчик (Инфраструктура), area: Москва, salary: unknown
+Vacancy(id: 46386637, name: Системный архитектор (Java), area: Москва, salary: unknown
+Vacancy(id: 45978982, name: Tech Lead (Руководитель разработки), area: Москва, salary: unknown
+Vacancy(id: 43819383, name: Go-разработчик (команда почтового хранилища), area: Москва, salary: unknown
+Vacancy(id: 46390853, name: Системный архитектор / System Architect WEB, area: Москва, salary: unknown
+Vacancy(id: 46330992, name: Middle/Senior Android разработчик (Юнит Performance), area: Москва, salary: unknown
+Vacancy(id: 46359109, name: Data Engineer, area: Москва, salary: unknown
+Vacancy(id: 46306108, name: Инженер по автоматизации тестирования Android (Kotlin), area: Москва, salary: unknown
+Vacancy(id: 44951289, name: Go-разработчик (B2B Календарь), area: Москва, salary: unknown
+Vacancy(id: 46372385, name: CTO / Технический директор, area: Москва, salary: from: 450000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46321723, name: Devops engineer, area: Москва, salary: unknown
+Vacancy(id: 46345125, name: JavaScript Full-stack, area: Москва, salary: unknown
+Vacancy(id: 40909700, name: Разработчик Go, Рекламная платформа, area: Москва, salary: unknown
+Vacancy(id: 46341991, name: Linux администратор / DevOps инженер, area: Москва, salary: unknown
+Vacancy(id: 46331054, name: Frontend разработчик (Юнит Performance), area: Москва, salary: unknown
+Vacancy(id: 43852580, name: Data Scientist, Поиск / Товарные рекомендации, area: Москва, salary: unknown
+Vacancy(id: 42495855, name: Ведущий разработчик Go, Рекламная платформа, area: Москва, salary: unknown
+Vacancy(id: 45756882, name: Project manager (ТВ-каналы), area: Москва, salary: unknown
+Vacancy(id: 46339354, name: QA Auto Engineer (Авито Работа), area: Москва, salary: unknown
+Vacancy(id: 43091084, name: Руководитель группы разработки GO, рекламная платформа, area: Москва, salary: unknown
+Vacancy(id: 46368390, name: Специалист по информационной безопасности (ФинТех), area: Москва, salary: from: 120000, to: 160000, currency: RUR, is_gross: false)
+Vacancy(id: 43232957, name: Разработчик решений (проект Tarantool), area: Москва, salary: unknown
+Vacancy(id: 46374872, name: Ведущий специалист по микросервисной архитектуре и поддержке транзакционных сервисов, area: Москва, salary: unknown
+Vacancy(id: 46344559, name: Разработчик Go, Путь совершения покупки/В2В и специальные проекты, area: Москва, salary: unknown
+Vacancy(id: 43159374, name: Архитектор развития платформенных решений UMP, area: Москва, salary: unknown
+Vacancy(id: 45529753, name: QA инженер (Classified), area: Москва, salary: unknown
+Vacancy(id: 46309835, name: Python&Golang developer (Middle/Senior), area: Москва, salary: unknown
+Vacancy(id: 46345709, name: Руководитель группы инженеров devops, Эксплуатация, area: Москва, salary: unknown
+Vacancy(id: 46306948, name: Senior Golang Developer (remote), area: Москва, salary: from: 6000, to: 8000, currency: USD, is_gross: false)
+Vacancy(id: 46403382, name: Начальник отдела маршрутизации, area: Москва, salary: unknown
+Vacancy(id: 46286354, name: Golang разработчик (удаленно), area: Москва, salary: unknown
+Vacancy(id: 46294342, name: GO Developer, area: Москва, salary: unknown
+Vacancy(id: 46306924, name: Senior Java Developer (remote or Barcelona), area: Москва, salary: from: 6000, to: 8000, currency: USD, is_gross: true)
+Vacancy(id: 46308868, name: Golang Developer (платформа управления инфраструктурой), area: Москва, salary: unknown
+Vacancy(id: 46306895, name: DevOps Engineer, area: Москва, salary: from: 6000, to: 8000, currency: USD, is_gross: true)
+Vacancy(id: 45501229, name: PHP developer, area: Москва, salary: unknown
+Vacancy(id: 40765118, name: Go-разработчик в команду IAM (Mail.ru Cloud Solution), area: Москва, salary: unknown
+Vacancy(id: 46260867, name: Golang developer в Yandex.Cloud, area: Москва, salary: unknown
+Vacancy(id: 43770378, name: Senior Machine Learning Developer (Java/Python), area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 45467626, name: Разработчик PHP/GO (Billing), area: Москва, salary: unknown
+Vacancy(id: 44012622, name: Релиз-инженер, Эксплуатация, area: Москва, salary: unknown
+Vacancy(id: 43930942, name: Web-разработчик PHP в команду веб-разработки Ситилинк, area: Москва, salary: unknown
+Vacancy(id: 46281017, name: Программист-алгоритмист, area: Москва, salary: unknown
+Vacancy(id: 42875833, name: PHP/Golang Developer (Backoffice), area: Москва, salary: unknown
+Vacancy(id: 46223928, name: Go Developer (Fuel), area: Москва, salary: unknown
+Vacancy(id: 46253741, name: Старший разработчик Go, Сервис управления знаниями / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 45574234, name: Senior Go developer, area: Москва, salary: unknown
+Vacancy(id: 46298644, name: Инженер по автоматизации тестирования, Рекламная платформа, area: Москва, salary: unknown
+Vacancy(id: 46301058, name: QA engineer, area: Москва, salary: unknown
+Vacancy(id: 34041975, name: Senior golang developer, area: Москва, salary: unknown
+Vacancy(id: 46235326, name: PHP-разработчик, area: Москва, salary: from: -1, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 46265787, name: Руководитель группы разработки Go, Логистика, area: Москва, salary: unknown
+Vacancy(id: 46294843, name: Service Delivery Manager, area: Москва, salary: unknown
+Vacancy(id: 46217238, name: Разработчик Go, Каталог, area: Москва, salary: unknown
+Vacancy(id: 44940416, name: QA Automation Engineer, area: Москва, salary: from: 120000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46177934, name: Senior Backend Developer (ruby/go), area: Москва, salary: from: 5000, to: 7000, currency: USD, is_gross: false)
+Vacancy(id: 46246013, name: Стажер по Нагрузочному тестированию (Java, C#, C++), area: Москва, salary: unknown
+Vacancy(id: 45619679, name: Senior Golang Developer (software-defined storage), area: Москва, salary: unknown
+Vacancy(id: 46209835, name: Golang developer [МТС Медиа], area: Москва, salary: unknown
+Vacancy(id: 37790906, name: Senior Backend разработчик (Go), area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 46272041, name: Стажёр-разработчик Scala (Хранение и обработка данных / Группа систем хранения и обработки данных), area: Москва, salary: unknown
+Vacancy(id: 40196260, name: Разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 43651589, name: Golang Developer (Data Platform), area: Москва, salary: unknown
+Vacancy(id: 43725879, name: Embedded Linux Software Specialist, area: Москва, salary: unknown
+Vacancy(id: 44845207, name: Developer C# (Developer Trading Desk Bot Platform), area: Москва, salary: from: 5000, to: 10000, currency: USD, is_gross: true)
+Vacancy(id: 46151742, name: Senior Golang (Go) Developer, area: Москва, salary: unknown
+Vacancy(id: 43185538, name: Senior backend developer (ML Space AI Cloud), area: Москва, salary: unknown
+Vacancy(id: 46150589, name: Программист Golang/С++, area: Москва, salary: unknown
+Vacancy(id: 43185140, name: Middle backend developer (ML Space AI Cloud), area: Москва, salary: unknown
+Vacancy(id: 45806688, name: Python разработчик (Middle+/Senior), area: Москва, salary: from: 200000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 46035729, name: Backend Developer, area: Москва, salary: unknown
+Vacancy(id: 45503569, name: Full‌ ‌Stack‌ ‌Web‌ ‌Developer‌ ‌, area: Москва, salary: unknown
+Vacancy(id: 46182173, name: Разработчик в Yandex Database Application Team, area: Москва, salary: unknown
+Vacancy(id: 43144051, name: Fullstack разработчик (Golang), area: Москва, salary: unknown
+Vacancy(id: 46182230, name: Разработчик Yandex Database, area: Москва, salary: unknown
+Vacancy(id: 46176721, name: Senior PHP Developer (backend)/Ведущий PHP разработчик, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45399387, name: Системный администратор Linux, area: Москва, salary: unknown
+Vacancy(id: 45453669, name: Главный разработчик Golang (Видеонаблюдение), area: Москва, salary: unknown
+Vacancy(id: 40732474, name: Middle/Senior developer (Go) (СберДиск), area: Москва, salary: unknown
+Vacancy(id: 46152188, name: Стажёр-разработчик Go (Группа разработки Go платформы / Разработка платформы), area: Москва, salary: unknown
+Vacancy(id: 45539171, name: Fullstack разработчик, area: Москва, salary: unknown
+Vacancy(id: 45239007, name: Ведущий инженер по администрированию систем ДБО, area: Москва, salary: unknown
+Vacancy(id: 46158582, name: Golang разработчик (Инвестиции), area: Москва, salary: unknown
+Vacancy(id: 44535861, name: Senior Machine Learning Developer (Java/Python) (remote), area: Москва, salary: unknown
+Vacancy(id: 46179835, name: Kubernetes devops, area: Москва, salary: unknown
+Vacancy(id: 46178808, name: Junior Software Developer, area: Москва, salary: unknown
+Vacancy(id: 45728328, name: Senior QA automation, area: Москва, salary: unknown
+Vacancy(id: 42735632, name: Senior DevOps / Site Reliability Engineer, area: Москва, salary: from: 300000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 45236114, name: Инженер поддержки брокерских операций, area: Москва, salary: unknown
+Vacancy(id: 30842054, name: Разработчик Go, Логистика, area: Москва, salary: unknown
+Vacancy(id: 45226728, name: Инженер поддержки транзакционных сервисов, area: Москва, salary: unknown
+Vacancy(id: 46191465, name: Разработчик Go, Логистика / Тарификация магистральных перевозок, area: Москва, salary: unknown
+Vacancy(id: 46143509, name: Senior BI Developer, area: Москва, salary: unknown
+Vacancy(id: 46187409, name: System Analyst в команду Site, area: Москва, salary: unknown
+Vacancy(id: 46216759, name: Руководитель группы разработки, Сервис управления знаниями / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 42264786, name: Solution Architect (СберДиск), area: Москва, salary: unknown
+Vacancy(id: 44749785, name: Прикладной администратор (2 я линия support) - Devops, area: Москва, salary: unknown
+Vacancy(id: 46157223, name: Программист-аналитик, area: Москва, salary: unknown
+Vacancy(id: 46232263, name: SRE-Специалист, area: Москва, salary: unknown
+Vacancy(id: 46161776, name: Senior QA (PaaS), area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: true)
+Vacancy(id: 45328930, name: Middle Golang Developer (офис / удаленно), area: Москва, salary: unknown
+Vacancy(id: 41839573, name: Разработчик управляющей компоненты единого хранилища данных, area: Москва, salary: unknown
+Vacancy(id: 43046994, name: Инженер по автотестированию, Рекламная платформа, area: Москва, salary: unknown
+Vacancy(id: 45347384, name: Back-end Developer (Node/Java/Python), area: Москва, salary: unknown
+Vacancy(id: 46137736, name: DevOps Engineer (Delivery team, Perm), area: Москва, salary: unknown
+Vacancy(id: 46107568, name: Golang разработчик (удалённо), area: Москва, salary: unknown
+Vacancy(id: 46164646, name: Системный Архитектор (Web, mobile,microservises), area: Москва, salary: unknown
+Vacancy(id: 46084532, name: GoLang-разработчика (teamLead), area: Москва, salary: unknown
+Vacancy(id: 46190762, name: Менеджер проекта /Project Manager - b2c, e-com (web and mobile), area: Москва, salary: unknown
+Vacancy(id: 46075056, name: Golang developer (Платформенные сервисы), area: Москва, salary: unknown
+Vacancy(id: 46117154, name: Стажер-разработчик Golang, Ozon Рассрочка, area: Москва, salary: unknown
+Vacancy(id: 45386380, name: Java-разработчик, area: Москва, salary: unknown
+Vacancy(id: 39325088, name: Go Developer, area: Москва, salary: unknown
+Vacancy(id: 46026962, name: Архитектор высоконагруженных систем, area: Москва, salary: unknown
+Vacancy(id: 45383674, name: DevOps в команду веб-разработки Ситилинк, area: Москва, salary: unknown
+Vacancy(id: 45309919, name: Python разработчик в команду Видеосмотрения, area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 45248856, name: Senior Backend разработчик (Golang), area: Москва, salary: from: 220000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46061309, name: Ведущий разработчик Golang, area: Москва, salary: unknown
+Vacancy(id: 44393441, name: PHP Developer (senior), area: Москва, salary: unknown
+Vacancy(id: 46074175, name: Разработчик PHP, area: Москва, salary: from: 140000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44476927, name: Разработчик Back-end (Java, PostgreSQL, ClickHouse), area: Москва, salary: unknown
+Vacancy(id: 46130135, name: Разработчик Go, Финансовые сервисы / Ozon Рассрочка, area: Москва, salary: unknown
+Vacancy(id: 42935803, name: Инженер поддержки транзакционных сервисов, area: Москва, salary: unknown
+Vacancy(id: 46048032, name: Разработчик PHP/Go (Support Systems), area: Москва, salary: unknown
+Vacancy(id: 45279715, name: PHP developer (middle), area: Москва, salary: unknown
+Vacancy(id: 45999361, name: C++/Go разработчик (команда серверной разработки Myteam), area: Москва, salary: unknown
+Vacancy(id: 45085801, name: Data Engineer/ Backend-разработчик, area: Москва, salary: unknown
+Vacancy(id: 46109188, name: Разработчик Go, Путь совершения покупки/Подсказки, area: Москва, salary: unknown
+Vacancy(id: 46077575, name: PHP-программист, area: Москва, salary: unknown
+Vacancy(id: 46024949, name: Senior/Middle Software Engineer (Golang), area: Москва, salary: unknown
+Vacancy(id: 46095643, name: Data аналитик (remote), area: Москва, salary: from: -1, to: 450000, currency: RUR, is_gross: false)
+Vacancy(id: 46009366, name: Backend-разработчик, area: Москва, salary: from: 120000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44483573, name: Инженер по автоматизации тестирования, area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45386502, name: Тестировщик, area: Москва, salary: unknown
+Vacancy(id: 40156802, name: Junior/Middle/Senior Golang Developer, area: Москва, salary: unknown
+Vacancy(id: 45976104, name: Ведущий Golang разработчик, area: Москва, salary: unknown
+Vacancy(id: 46080222, name: Devops-инженер в команду CIB Managed Services, area: Москва, salary: unknown
+Vacancy(id: 42570418, name: Team Leader for RND Team, area: Москва, salary: unknown
+Vacancy(id: 45973598, name: Backend - разработчик, area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46122427, name: Senior Engineering Manager (Rain), area: Москва, salary: unknown
+Vacancy(id: 45991800, name: Python Developer, area: Москва, salary: unknown
+Vacancy(id: 45998369, name: Разработчик php/go в команду поиска, area: Москва, salary: unknown
+Vacancy(id: 45984008, name: Senior Full-stack developer (удаленка), area: Москва, salary: from: 200000, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 45162235, name: Backend разработчик (Юнит PaaS), area: Москва, salary: unknown
+Vacancy(id: 45316349, name: Backend developer (PHP), area: Москва, salary: unknown
+Vacancy(id: 46066371, name: DevOps-инженер, area: Москва, salary: unknown
+Vacancy(id: 42971398, name: Backend разработчик (Golang), area: Москва, salary: unknown
+Vacancy(id: 45989125, name: Разработчик Golang в команду веб-разработки Ситилинк, area: Москва, salary: unknown
+Vacancy(id: 45965481, name: Backend developer PHP/Go (Service Unit), area: Москва, salary: unknown
+Vacancy(id: 46061080, name: Senior Test Automation Engineer, area: Москва, salary: unknown
+Vacancy(id: 41112752, name: DevOps в MOEX, area: Москва, salary: unknown
+Vacancy(id: 45956332, name: Разработчик Go/PHP (команда Logistics, группа Partners Integration, Delivery Club), area: Москва, salary: unknown
+Vacancy(id: 46029173, name: Team Lead в Delivery Club (Logistics), area: Москва, salary: unknown
+Vacancy(id: 44365275, name: Backend-разработчик, area: Москва, salary: from: 130000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 44524791, name: Golang-разработчик (голосовые технологии), area: Москва, salary: unknown
+Vacancy(id: 45295712, name: Разработчик Go, Полигоны доставки, area: Москва, salary: unknown
+Vacancy(id: 44369583, name: Senior DevOps, area: Москва, salary: from: 180000, to: 300000, currency: RUR, is_gross: false)
+Vacancy(id: 44536314, name: System Analyst, area: Москва, salary: unknown
+Vacancy(id: 45317460, name: Консультант по внедрению практик DevOps, area: Москва, salary: unknown
+Vacancy(id: 45999933, name: Программист / Разработчик на C#, area: Москва, salary: unknown
+Vacancy(id: 45997766, name: Программист-разработчик Data engineer, area: Москва, salary: unknown
+Vacancy(id: 46087621, name: ИТ рекрутер, area: Москва, salary: unknown
+Vacancy(id: 46109237, name: Ведущий инженер по администрированию систем ДБО ЮЛ в Банк, area: Москва, salary: unknown
+Vacancy(id: 45968163, name: Java-разработчик, area: Москва, salary: unknown
+Vacancy(id: 45993543, name: Team lead (Юнит PaaS), area: Москва, salary: unknown
+Vacancy(id: 46083541, name: Ведущий системный аналитик, area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 46023287, name: Инженер по нагрузочному тестированию, area: Москва, salary: unknown
+Vacancy(id: 44548976, name: Руководитель группы разработки GO, финансовые сервисы, area: Москва, salary: unknown
+Vacancy(id: 42686815, name: Старший разработчик Go, Путь совершения покупки/Видео, area: Москва, salary: unknown
+Vacancy(id: 45236498, name: Data engineer/ ETL developer, area: Москва, salary: unknown
+Vacancy(id: 45967509, name: QA Automation Engineer (Golang), area: Москва, salary: unknown
+Vacancy(id: 43880351, name: DevOps Engineer (Platform Infrastructure), area: Москва, salary: unknown
+Vacancy(id: 45998156, name: Senior QA (Demand), area: Москва, salary: from: 150000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45144402, name: Golang Tech Lead, area: Москва, salary: unknown
+Vacancy(id: 42038753, name: Разработчик Go, Проект ItCrowd/ Эксплуатация, area: Москва, salary: unknown
+Vacancy(id: 45918952, name: Senior Backend Developer, area: Москва, salary: unknown
+Vacancy(id: 45991774, name: SRE-инженер (DevPlatform), area: Москва, salary: unknown
+Vacancy(id: 45258476, name: Senior Performance engineer/ Team lead, area: Москва, salary: unknown
+Vacancy(id: 45964308, name: DevOps инженер, area: Москва, salary: unknown
+Vacancy(id: 46064198, name: IT рекрутер в компании мечты :), area: Москва, salary: unknown
+Vacancy(id: 45963455, name: Разработчик Go, Контент и товары / Маркетплейс, area: Москва, salary: unknown
+Vacancy(id: 42608149, name: Middle Golang developer (Москва), area: Москва, salary: from: 130000, to: 200000, currency: RUR, is_gross: false)
+Vacancy(id: 45959981, name: Разработчик Go, Логистика / Сортировка, area: Москва, salary: unknown
+Vacancy(id: 45203429, name: Senior DevOps Engineer, area: Москва, salary: unknown
+Vacancy(id: 45910344, name: Backend разработчик, area: Москва, salary: unknown
+Vacancy(id: 45932507, name: PHP developer (back), area: Москва, salary: from: -1, to: 250000, currency: RUR, is_gross: false)
+Vacancy(id: 38330685, name: Инженер технической поддержки\Администратор Linux, area: Москва, salary: unknown
+Vacancy(id: 44182261, name: Golang developer (Безоперационные продукты), area: Москва, salary: unknown
+Vacancy(id: 44205663, name: Разработчик Go (Trust & Safety), area: Москва, salary: unknown
+Vacancy(id: 45151014, name: Team Lead Backend (Rider App), area: Москва, salary: unknown
+Vacancy(id: 45928629, name: PHP/Go developer, area: Москва, salary: unknown
+Vacancy(id: 45988612, name: Разработчик JavaScript, Аккаунт продавца / Аналитика и инструменты / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 45198314, name: Старший разработчик Go, Платформа/Нагрузочное тестирование, area: Москва, salary: unknown
+Vacancy(id: 45927138, name: Senior Ruby on Rails Developer (BGaming), area: Москва, salary: unknown
+Vacancy(id: 45997836, name: Инженер по работе с большими данными Data engineer, area: Москва, salary: unknown
+Vacancy(id: 42608594, name: Flutter (Dart, Kotlin )/Mobile developer, Москва, area: Москва, salary: from: 100000, to: 150000, currency: RUR, is_gross: false)
+Vacancy(id: 45908617, name: Senior PHP/Go Developer (Platform), area: Москва, salary: unknown
+Vacancy(id: 46025340, name: Technical Leader for CNCF/K8s projects, area: Москва, salary: unknown
+Vacancy(id: 45197416, name: Разработчик Go, Путь совершения покупки/Личный кабинет и избранное, area: Москва, salary: unknown
+Vacancy(id: 45174201, name: Lead/Senior Frontend-разработчик (remote), area: Москва, salary: from: 200000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45154433, name: Corporate Communications Manager, area: Москва, salary: unknown
+Vacancy(id: 39988635, name: Infrastructure Security Team Lead (Кипр), area: Москва, salary: unknown
+Vacancy(id: 45910325, name: Fullstack разработчик, area: Москва, salary: unknown
+Vacancy(id: 43387888, name: Руководитель группы разработки (GO/Golang), area: Москва, salary: unknown
+Vacancy(id: 45058679, name: Golang программист, area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45904485, name: Разработчик Golang, Финансовые сервисы / Ozon Premium, area: Москва, salary: unknown
+Vacancy(id: 44303550, name: Frontend-разработчик (IIoT), area: Москва, salary: unknown
+Vacancy(id: 43908005, name: PHP+Go-разработчик, area: Москва, salary: unknown
+Vacancy(id: 45935260, name: Node.js Developer, area: Москва, salary: unknown
+Vacancy(id: 45905985, name: Разработчик Golang, Финансовые сервисы / Ozon Bank, area: Москва, salary: unknown
+Vacancy(id: 45619860, name: DevOps инженер, area: Москва, salary: unknown
+Vacancy(id: 44362397, name: Golang разработчик [МТС Cashback], area: Москва, salary: unknown
+Vacancy(id: 45903527, name: DevOps Engineer (Infrastructure), area: Москва, salary: from: 250000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45070172, name: React Native разработчик (Remote), area: Москва, salary: from: 180000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45907139, name: System Software Engineer [Unix, C/C++, Go], area: Москва, salary: unknown
+Vacancy(id: 45839514, name: Senior DevOps (Azure) Engineer, area: Москва, salary: unknown
+Vacancy(id: 45871533, name: Разработчик Go, Логистика / TMS, area: Москва, salary: unknown
+Vacancy(id: 45151579, name: Тестировщик ПО, area: Москва, salary: unknown
+Vacancy(id: 45841066, name: Frontend-разработчик (Angular), area: Москва, salary: unknown
+Vacancy(id: 45087731, name: Разработчик Go, Путь совершения покупки/ Автотовары, area: Москва, salary: unknown
+Vacancy(id: 45927665, name: AppSec engineer, area: Москва, salary: unknown
+Vacancy(id: 45088009, name: Старший разработчик Go, Геймификация/Путь совершения покупки, area: Москва, salary: unknown
+Vacancy(id: 45856389, name: SRE-инженер Kubernetes, area: Москва, salary: unknown
+Vacancy(id: 45872768, name: Разработчик Go, Инструменты торговой площадки / Сопровождение торговой площадки, area: Москва, salary: unknown
+Vacancy(id: 44556922, name: C++ Developer (Software-Defined Storage), area: Москва, salary: unknown
+Vacancy(id: 46027726, name: Golang Developer (Junior), area: Москва, salary: unknown
+Vacancy(id: 45991482, name: Менеджер по подбору персонала (IT), area: Москва, salary: from: 80000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45833439, name: Инженер технической поддержки L3, area: Москва, salary: unknown
+Vacancy(id: 45991513, name: Специалист по подбору персонала (IT), area: Москва, salary: from: 70000, to: -1, currency: RUR, is_gross: false)
+Vacancy(id: 45833710, name: Senior Ruby Developer, area: Москва, salary: from: 150000, to: 180000, currency: RUR, is_gross: false)
+Vacancy(id: 44302823, name: Backend-разработчик Golang/Java (IIoT), area: Москва, salary: unknown
+Vacancy(id: 45794117, name: Ведущий инженер по эксплуатации ИС, area: Москва, salary: unknown

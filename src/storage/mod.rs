@@ -1,6 +1,8 @@
 use std::fmt::Display;
 use std::fs;
-use std::io::Write;
+use std::io::{Write};
+use std::fs::File;
+use std::path::Path;
 
 pub mod storage;
 
@@ -10,6 +12,10 @@ pub struct FileStorage {
 
 impl FileStorage {
     pub fn new(file_path: String) -> FileStorage {
+        let exists = Path::new(&file_path).exists();
+        if !exists {
+            let _file = File::create(&file_path).unwrap();
+        }
         FileStorage { file_path }
     }
 }
